@@ -1,0 +1,63 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Fédération nationale des travaux publics (FNTP)
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665445
+Submitted on
+05 August 2021
+Submitted by
+Nicolas GAUBERT
+User type
+Business association
+Organisation
+Fédération nationale des travaux publics (FNTP)
+Organisation size
+Medium (50 to 249 employees)
+Country of origin
+France
+Initiative
+Artificial intelligence – ethical and legal requirements
+Show original language (FR)
+Warning: Automatic translations may not be 100% accurate.
+
+The European Commission’s risk-based approach seems to be the best approach as it fosters confidence in artificial intelligence without hampering its development. 
+On the other hand, it is essential to keep room for innovation. Particular attention should therefore be paid to definitions, in particular those of AI systems and high-risk systems, as the obligations and requirements are very burdensome and difficult to put in place. Clear and sufficiently precise definitions are all the more important as they will serve as references in other texts. They must therefore not lead to legal uncertainty.
+
+Article 7 provides for the possibility for the European Commission to adopt delegated acts to develop Annex III establishing a list of AI systems considered high-risk. While it is indeed necessary to take account of developments in the definition of high-risk AI, the fact that the Commission can do so through delegated acts creates legal uncertainty. However, this could discourage companies from developing innovative AI solutions due to unpredictable developments in the scope of regulation in the coming years.
+Moreover, the criteria listed in Article 7, which empowers the Commission to update the list in Annex III, are sometimes vague and should be clarified in order to support legal certainty and market predictability. For example, explicit provisions should be introduced for the participation of companies in any future process of updating the list.
+
+On the other hand, the proposal for a regulation seems to have been drawn up in disregard of the fact that many regulated products incorporating AI as a safety function are now being used, in particular, machinery covered by Directive 2006/42/EC. However, the methodology adopted by the Machinery Directive is to carry out a risk analysis in order to take appropriate protective measures. The proposal for a regulation, for its part, automatically considers certain AI systems to be high-risk, without regard to the risk analysis carried out by the undertaking under the Machinery Directive, which is contradictory.
+
+Moreover, as the data are very important for the development of AI, it is necessary to link the proposed AI Regulation with European texts on pre-existing or currently under discussion (GDPR, Data Governance Act, Data Act) in order to ensure that these texts are complementary and to ensure that similar obligations (access and sharing of data, obligations in terms of data reliability or profiling, sanctions, etc.) are not contradictory or overlapping.
+
+At national level, there are currently many French authorities and bodies active in the digital field and, before designating a new authority responsible for AI, it would be desirable, on the one hand, to better define the tasks of this new authority in the light of the challenges of international competitiveness, innovation and data processing (personal or industrial) and, on the other hand, to clarify the role of each of these authorities already in place and possibly to rethink the scope of these bodies. 
+
+Furthermore, it is essential that the decisions and doctrines of the national supervisory authorities are harmonised in order to avoid the risk of fragmentation in the application of the Regulation.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

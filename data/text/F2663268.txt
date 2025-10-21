@@ -1,0 +1,69 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: European Disability Forum (EDF)
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2663268
+Submitted on
+28 July 2021
+Submitted by
+Mher Hakobyan
+User type
+Non-governmental organisation (NGO)
+Organisation
+European Disability Forum (EDF)
+Organisation size
+Small (10 to 49 employees)
+Country of origin
+Belgium
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+We welcome the European Commission’s proposal for regulating Artificial Intelligence (AI) in the EU. The proposed Regulation for AI will help ensure protection of fundamental rights of persons with disabilities in the context of new technologies. The Regulation can also help promote AI that will improve accessibility for persons with disabilities and support their participation in society. To ensure this, however, the Commission proposal needs significant improvements with strong safeguards against discriminatory AI systems and practices, and proactive measures to promote AI that will benefit accessibility and equality of persons with disabilities. 
+In view of this, the EU AI Regulation must:
+•	address discrimination, privacy, and safety and liability-related risks posed by AI 
+•	include horizontal and mainstreamed accessibility requirements for AI systems irrespective of level of risk, including for AI-related information and instruction manuals, consistent with exiting EU accessibility legislation, notably with the European Accessibility Act
+•	ensure that privacy and data protection of all persons with disabilities, including of persons with intellectual, psychosocial disabilities, or mental ill-health, are protected when their data is processed by AI systems
+•	set effective, accessible for persons with disabilities, measures for individuals to be informed when their data is being gathered and possibility to inquire and object to processing of such data by AI systems. The possibility of objecting to one’s data collection should offer this option in a meaningful way. 
+•	forbid:
+o	use of AI for remote biometric identification by public and private entities in publicly accessible spaces
+o	development and use of AI systems for military purposes
+o	use of AI for emotion recognition by public authorities and private entities
+o	use of AI for predictive policing 
+•	limit the definition of biometric categorisation by AI systems to biometric features which are tangible and do not risk reinforcing stereotypes and false assumptions (e.g. assumption of someone’s gender based on pitch of their voice; categorizing subjective characteristics such as political opinion, sexuality)
+•	limit the areas of high-risk AI use and instead ban several of the practices listed in Annex III after meaningful discussion between EU lawmakers and relevant civil society organisations, including organisations of persons with disabilities 
+•	ensure independent third-party conformity assessment for all providers and users of (potentially) high-risk AI systems
+•	include accessibility checks as part of conformity assessment 
+•	include measures for third-party independent assessment of impact of AI systems and their use on fundamental rights
+•	include a chapter dedicated to the protection of fundamental rights of citizens within the context of AI application, including measures to flag issues, file complaints, including collective complaints and complaints launched by civil society actors on behalf of individuals, and seek remedies in case of abuse 
+•	ensure that such measures are accessible for persons with disabilities
+•	ensure that EU-based AI providers and users whose outputs effect individuals outside of the European Union are subject to same requirements as those whose outputs effect persons within the Union
+•	require AI developers to meaningfully involve experts with disabilities, accessibility experts, and other rights-holders, in the design and development of AI systems, and to ensure diversity of development teams
+•	include requirements for proactive measures by the EU and Member States to support excellence of European AI development for the benefit of citizens, such as allocating funds for the development of AI-based assistive technologies for persons with disabilities, accessibility skill-building and digital rights awareness campaigns, and prioritizing projects led by organisations of persons with disabilities and accessibility experts.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

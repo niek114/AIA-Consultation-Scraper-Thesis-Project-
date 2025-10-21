@@ -1,0 +1,55 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: INFOBALT
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665595
+Submitted on
+06 August 2021
+Submitted by
+Virgilijus Dirma
+User type
+Business association
+Organisation
+INFOBALT
+Organisation size
+Small (10 to 49 employees)
+Country of origin
+Lithuania
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+INFOBALT  welcomes the European Commission’s Commission for its leadership in developing a regulatory framework for the responsible development and use of artificial intelligence technologies (“AI”), and the opportunity to provide feedback via the public consultation phase. We are pleased to see the Commission continue this open engagement with stakeholders in the development of the right policy and investment framework for AI. Our members represents an incredible variety of organisations, all of them affected by AI-related technologies. In this contribution to the  consultation, we present and develop our approach towards a balanced yet effective regulatory framework. We provide recommendations on how and where policy-makers should prioritise. A more principles-and results-based approach that is calibrated for the AI ecosystem will help to drive clarity for regulated actors and spur innovation.
+•	Ensure that AI competences, qualifications and skills can be easily identified, validated, recognised and understood. This are up-to-date with job market needs and reflect industry skills recognition, which make them immediately transferable across the EU.
+•	Important to reflect the complexity of the AI ecosystem in the balance of obligations for different stakeholders. It will seldom be feasible or effective for providers of general-use AI systems to manage all of the risks associated with potential application in high-risk systems, as is currently envisaged. The provider will often not have access to the operational data necessary for post-market monitoring if the AI system has been put into operation by another entity. We recommend a new class of “deployers” be added to the AIA with responsibility for complying with regulatory requirements associated with deploying general-use AI systems in high-risk applications.
+•	Clarify certain provisions to provide legal certainty around scope and protect privacy. The AIA includes a number of terms and provisions that would benefit from further clarification to ensure that providers of AI systems understand how the scope and requirements of the AIA apply to their products. For example, the definitions of “safety components” and “significant changes” could be further clarified to provide legal certainty around when systems come in scope of requirements for high-risk AI systems
+•	Important to ensure that any conformity assessment clearly distinguishes risks to safety and value-based risks, and that existing rules on market surveillance or conformity assessments are not duplicated. It would also be recommended to integrate any requirements imposed on AI into existing conformity assessment processes, rather than building a new stand-alone horizontal process for AI.
+•	Required to hold providers, deployers and users to feasible standards. As currently phrased, certain requirements of the regulation will be extremely difficult or impossible to meet in practice (the Art 10(3) requirement that datasets be “free of errors and complete” demands a level of perfection that is not technically feasible). Requirements should be composed in a fashion that reflects feasible, best practice standards.
+•	Compliance assessment of an AI framework should factor in existing provisions in other pieces of legislation which require certain classifications and risk assessment. Provisions should be structured to refer to existing requirements in order to contribute to enhanced legislative clarity and to avoid any inconsistencies, through the development of sector specific guidance documents issued by the respective regulatory authorities. Encourage innovative, risk-based and collaborative regulatory oversight.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

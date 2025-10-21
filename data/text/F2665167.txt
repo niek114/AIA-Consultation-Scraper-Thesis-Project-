@@ -1,0 +1,67 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: APDSI - Associação para a Promoção e Desenvolvimento da Sociedade da Informação
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665167
+Submitted on
+30 July 2021
+Submitted by
+APDSI Secretariado
+User type
+Non-governmental organisation (NGO)
+Organisation
+APDSI - Associação para a Promoção e Desenvolvimento da Sociedade da Informação
+Organisation size
+Micro (1 to 9 employees)
+Country of origin
+Portugal
+Initiative
+Artificial intelligence – ethical and legal requirements
+Show original language (PT)
+Warning: Automatic translations may not be 100% accurate.
+
+1. Clarify the balance of responsibilities between AI-providers, distributors and users, especially for general purpose APIs and open source models: As explained above, the AIA does not sufficiently distinguish between the responsibilities of AI users when performing the role of distributor and the responsibilities of providers towards their consumers. Unless it is reasonably clear, it risks having a deterrent effect on the publication of models in open source and in APIs, which is so important for AI innovation and its uptake by industry. We leave some recommendations:
+• The AI Directive does not provide a definition of “distributor”. For the sake of clarity, it would be useful to do so. A sensible definition would be that of “distributor” to refer to the entity that makes the AI system available for use in a specific operational context. Sometimes (ex: If the system is built in a customised manner for the distributor by the developer) the distributor may be the same as the supplier. But in other cases this will not be the case if general purpose AI systems are used.
+• Distributors should bear primary responsibility for compliance, compliance, assessment and post-market monitoring, as only they can check the final applications for which their systems are being used and other additional information that has been introduced from the training of their system. On the contrary, it would be the same to hold brick manufacturers responsible for ensuring the structural integrity of a tower, rather than those architects, engineers and builders who have developed and built the tower.
+o To be clear, the burden should be placed on distributors in all circumstances, regardless of the brand or the precise way in which the AI system was obtained. If general purpose AI is being used, taken from the shelf, in a high-risk operation or if the system has been modified, only the organisation using the AI system will be aware of how the system will be used.
+
+2. Review the language used in impracticable standards: It is important to maintain realistic requirements in line with sound industry practices and practices. While we agree with the direction of requirements for high-risk AI systems, we consider that some language used deserves increased attention in order to avoid the creation of standards that are de facto impossible for any supplier to achieve. In particular: (see document attached)
+
+3. Clarify due diligence practices: There are several areas where further guidance on compliance expectations is needed. For example: (see document attached)
+
+4. Reframing disproportionate requirements. In some cases, the requirements are generally, or even extremely disproportionate, and should be amended.
+Specifically:
+• Article 64 (2) states that “... upon reasoned request, market surveillance authorities shall be granted access to the source code of the AI system”. However, the source code is protected by the European Trade Secrets Directive and there is always the possibility of alternative methods to verify the performance of an AI system (e.g. internal/external audits) making access to the source code superfluous.
+• We consider as a best option the partial amendment of Article 64(2) for the following: “upon justified request, operators or deployers of AI shall support and equip market surveillance authorities with the necessary means to facilitate robust testing (e.g. internal/external audit) in cases requiring compliance with the requirements”.
+
+Feedback from: APDSI - Associação para a Promoção e Desenvolvimento da Sociedade da Informação
+EN
+(237.2 KB - PDF - 1 page)
+Available soon
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

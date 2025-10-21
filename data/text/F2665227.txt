@@ -1,0 +1,59 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Biogen
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665227
+Submitted on
+02 August 2021
+Submitted by
+Andrea Corazza
+User type
+Company/business
+Organisation
+Biogen
+Organisation size
+Large (250 or more)
+Country of origin
+United States
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+We welcome the Commission’s first ever legal framework on AI and its goal to promote Europe’s innovation capacity in AI, which has the potential to speed drug development and improve healthcare outcomes across the continent. We support a risk-based approach to AI with an oversight proportionate to the intended use and led by defined risk categories. 
+
+Biogen supports the Commission’s approach to regulate AI based on risk, overall acknowledging CE marking system for high-risk applications in healthcare which is already addressed by MDR/IVDR. We would welcome an alignment of the risk levels described in the proposal with MDR for consistency. Under a risk-based regulatory system and in consideration of the scope of use, some AI-driven software may be categorized as low or intermediate risk under the MDR, whereas the draft proposal appears to classify all such devices as high risk. The inclusion of AI software into the EU’s product compliance framework could also decrease the competitiveness on the market due to providers having difficulty in fulfilling market access regulations and therefore jeopardizing the uptake of AI-driven solutions by operators. AI has a broad application in the pharma supply chain including R&D, manufacturing, launch, post marketing surveillance and patient support. To incentivise the investments in AI solutions in Europe, we recommend a thorough assessment of the proposed requirements versus the support offered to providers to navigate through the new rules. 
+
+In order to assure high quality AI solutions and to safeguard the EU’s competitiveness in the international AI marketplace, easy yet compliant access to a significant amount of high quality and representative data will be prerequisite to reducing bias, discrimination and ensuring highest levels of safety and robustness of AI. We support the mapping and “FAIR-ification” of existing databases to build up on existing sources and to make the machine-readable metadata findable for automated discovery.  The Commission’s plans to create a EHDS promises to unlock the power of data for AI-enabled healthcare and a well-functioning EHDS should incentivise data sharing and harmonise applicable rules to remove barriers to the collective benefits across Europe. In order for all stakeholders, including providers and operators, to train, test, develop and apply a trustworthy, reliable AI system, clear rules on data access and processing should be laid out; and full benefit should be made of all measures in support of innovation such as AI regulatory “sandboxes” which may involve the further processing of personal data for a limited period of time and under well-defined conditions. Emerging AI methods involving the decentralised development of machine learning algorithms would enhance user and stakeholder privacy and should be investigated.
+
+In line with our health equity commitments, Biogen emphasizes the importance of access to not only high quality but diverse datasets to proactively counter the potential for bias in AI-base systems as an important protection for patients.
+ 
+We should avoid fragmented implementation. Therefore, we welcome the creation of a European AI Board tasked with coordination of collaboration on AI across the EU. We emphasise that the evolving positive ecosystem of AI must be built together. Biogen wishes to underline the importance of all key stakeholders being engaged in this initiative at the highest level and encourages early agreement on public-private platform to allow for structured dialogue with the Board. 
+
+Finally, we call the EU policymakers to engage with international partners throughout the legislative process to take into consideration how the rules would apply internationally.  Any regulation should ensure an equal playing field for both local and global players while not stepping away from core European values.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

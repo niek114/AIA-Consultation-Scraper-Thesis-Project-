@@ -1,0 +1,73 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: The Value Engineers
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2324448
+Submitted on
+12 May 2021
+Submitted by
+Roel Wieringa
+User type
+Company/business
+Organisation
+The Value Engineers
+Organisation size
+Micro (1 to 9 employees)
+Country of origin
+Netherlands
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+The proposed regulation is an excellent initiative but needs improvement to be applicable to the cases for which it is intended.
+
+The definition of AI
+
+The definition of AI in Article 3.1 is contingent on the current state of the art. The Commission has the right to update the list of techniques given in Annex I (Article 4) but on the basis of what criteria would it do so? Radically new techniques such as artificial organic brains would be very different from those techniques. How would the Commission motivate its addition to the list? A criterion for what is an artificial intelligence, is needed. 
+
+Furthermore, the addition that AI systems can, given human-defined objectives, generate outputs such as content, predictions, recommendations, or decisions influencing their environments, does not help. Many systems can do so, including a cruise control of a car and a simple thermostat, which would not be regarded as AI systems.
+
+Proposal: The systems for which this regulation is intended are machines that make decisions for which moral reasoning is required. Moral reasoning involves reasoning about possible benefits and harms to people and about conformance to moral principles. A cruise control does not do any moral reasoning. A system to decide about employee promotion does. 
+
+The regulation does have to be more precise about what exactly moral reasoning is. Annex III gives a list of systems that we can take to be part of the definition. The commission can update this list (Article 7) and motivate its updates in terms of the requirement of moral reasoning needed to take decisions.
+
+Human accountability
+
+The proposed definition above has the advantage that it points out why this regulation is needed at all. It must be clear in advance of using an AI system who is responsible for the decisions made by, or with the help of, the system. This requires a strengthening of the requirement of human oversight in Article 14. If decisions that require moral reasoning are delegated to a machine, a natural person should be accountable for those decisions. This person should be designated before using the system.
+
+Transparency
+
+This in turn requires a strengthening of the requirement of transparency. In order for the responsible (accountable) person to be accountable, that person must have sufficient information about the decision made or recommended by the machine. In the case of data-driven AI systems, they must be aware of limitations of the data sets used, and they must understand the strengths and weaknesses of the choice of error rates in the learning algorithm. In addition, the accountable person must take responsibility for assessment of the similarity of the case at hand to the cases on which the algorithm was trained and tested — this requires moral reasoning too.
+
+“Perfect” data sets
+
+Article 10.3 requires data and training sets to be relevant, representative, free of errors and complete. There are no such data sets. Rather, the user of the system must be aware of imperfections in the training sets: The unavoidable prejudices in the training sample, unavoidable limits to the representativeness of the sample, and unavoidable limits to the construct validity of the measured variables. This is part of the transparency requirement above.
+
+More detail about my improvement proposal can be found at https://www.thevalueengineers.nl/the-eu-ai-regulation-what-are-we-talking-about/ and https://www.thevalueengineers.nl/how-to-deal-with-bias-in-artificial-intelligence/.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

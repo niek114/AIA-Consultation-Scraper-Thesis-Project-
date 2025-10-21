@@ -1,0 +1,67 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Allied for Startups
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2662175
+Submitted on
+13 July 2021
+Submitted by
+Manon Tabaczynsky
+User type
+Non-governmental organisation (NGO)
+Organisation
+Allied for Startups
+Organisation size
+Micro (1 to 9 employees)
+Country of origin
+Belgium
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+AFS Feedback to the European Commission’s regulation proposal on the Artificial Intelligence Act
+
+Artificial Intelligence has the potential to solve some of the world’s biggest challenges, ranging from combating climate change to improving people’s everyday lives. Startups are at the forefront of innovation, pioneering new products and services. Developing an AI regulatory framework that incentivises them to innovate in all fields is therefore of paramount importance. 
+
+Allied for Startups takes stock of the publication of the Artificial Intelligence Act, which will create a common set of EU rules for AI systems but raises questions whether the European Commission’s proposal will do enough to support innovation in high-risk AI sectors. 
+
+Clarity and clarification
+Clarity is needed on the definition of high risk use, as innovation in a high risk field is not akin to a high risk use. A clarification of responsibilities and of the roles of AI providers, AI operators and users is also needed. 
+
+Harmonised regulatory sandboxes
+Startups are global from day one and as such want to comply with any legislation impacting their business from day one. Allied for Startups supports the introduction of regulatory sandboxes for AI systems in Europe and measures aimed to lower the cost of market entry for startups. However, the introduction of sandboxes should not be the only way for entrepreneurs to have the legal certainty they need to innovate with a high-risk AI application in the EU. Consideration must be given to the time necessary and the resources available to the authorities and the entrepreneurs in this process. Moreover, this framework for sandboxes should be designed and implemented across all Member States in a harmonised manner. 
+
+Achievable high-risk requirements
+Looking at the entirety of the requirements, we are worried that these will be overly burdensome for startup entrepreneurs and dissuade them from developing artificial intelligence systems in high-risk areas in Europe. More specifically, we wonder how some of the legislative requirements such as making sure that the data that an AI system is trained is free of errors can be technically feasible. In addition to that, there is uncertainty as to what an appropriate level of accuracy, robustness and cybersecurity of an AI system could be and how this would be assessed. 
+
+Startups-friendly conformity assessment procedures 
+Conformity assessment procedures should take into account the startup innovation model. Most of the time, startups do not have the resources to wait several weeks to get their AI technology approved. They should be clear and straightforward to avoid double compliance or forum shopping. The timeframe to get the approval from the notifying authorities should not take longer than 4 weeks, as more could endanger the competitiveness of startups working in high-risk AI areas. 
+
+We ask policymakers to design an Artificial Intelligence Act that is understandable and implementable for startup entrepreneurs. The overall objective of the Artificial Intelligence Act should incentivise startups from all around the world to develop their AI systems - low and high risk - in the European Union. Future-proof AI legislation can give entrepreneurs the legal certainty they need to launch their groundbreaking tool or services in the EU Single Market.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

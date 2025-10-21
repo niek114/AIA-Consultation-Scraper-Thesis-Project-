@@ -1,0 +1,59 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Council of European Dentists (CED)
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665510
+Submitted on
+06 August 2021
+Submitted by
+Caroline Heilpern
+User type
+Non-governmental organisation (NGO)
+Organisation
+Council of European Dentists (CED)
+Organisation size
+Micro (1 to 9 employees)
+Country of origin
+Belgium
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+The Council of European Dentists (CED) welcomes the European Commission’s Proposal for a Regulation on AI to establish a legal framework on AI Systems and believes it to be a step in the right direction in the EU’s effort to categorize AI applications according to risk and acceptability.
+As in other sectors, AI is also increasingly applied in healthcare, and dentistry is no exception. The human factor is particularly relevant for professions such as dentists that are relying on patient trust. Algorithms can help dentists in making diagnoses, guided by the principles of patient-centered health care, but the CED believes that they should never replace them in this task. In healthcare, trust and empathy are of crucial importance and cannot be replaced. Thus, suitable regulatory frameworks are required to assure their safe usage and to define the boundaries of AI applications in healthcare.
+
+Apart from diagnosis, treatment and patient management, the CED recognises the wider potential for the application of AI in dentistry. An example of recent innovation could be AI-driven orthodontics where AI could offer automation of the procedure i.e., going from the 3D scan to the appliance without any user intervention. This would mean that AI would take over several steps that are now done by humans and allow for fully customised and personalised appliances. AI application in implantology and endodontics creates even more opportunities for more precise treatment and preventive actions. Robotic dental procedures would require AI for vision, instrument manipulation and real-time decision making.
+
+We would like to share the following key points to ensure that the application of AI in healthcare benefits patients:
+-	The draft Regulation needs to establish clarity as to the conditions under which AI processes can be used, especially in view of the MDR Regulation (EU) 2017/745. There is concern that the existence of different risk assessments under the AI and MDR might create confusion. We believe that this is needed for legal certainty and consistency reasons and to avoid interpretation issues. 
+-	The draft Regulation would need to clarify how human oversight and the provision of information to users is defined and applicable, especially, examples from medical device software would be appreciated. Algorithmic transparency is also crucial to ensure patient rights to information and explanation of how a decision might have been reached. Clear standards and legally binding assessment criteria to ensure transparency of AI systems in healthcare are needed.
+-	The draft Regulation should ensure full respect of EU data protection rules (notably the GDPR), while observing the balance between the interests of advancements in medical research and citizen protection.
+-	The list of high-risk AI systems detailed in Annex III of the draft Regulation currently lacks some use cases which involve significant risks, such as the use of AI for assessing medical treatments or for health research purposes. The Annex will need to be regularly updated to ensure that its scope is appropriate.
+-	To digitally revolutionize the healthcare system, an educated, well-trained workforce is paramount. The EU and Member States should put in place mechanisms to ensure professional and educational assistance to both patients and the healthcare professionals to better understand and assess AI decision-making. Priority should be given to the implementation of digital skills education into the healthcare studies curriculum.  Professionals should have the opportunity to undertake courses on algorithm functioning, as well as receiving adequate training on AI tools management. The workforce needs to be appropriately trained and financially supported during the introduction and application of AI systems in healthcare settings. Understanding AI processes and their application is a first step in supporting confidence in AI technologies among healthcare professionals, including dentists.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

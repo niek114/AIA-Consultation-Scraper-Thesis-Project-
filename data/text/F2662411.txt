@@ -1,0 +1,65 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: International Center for Ethics in the Sciences and Humanities (IZEW)
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2662411
+Submitted on
+14 July 2021
+Submitted by
+Jessica Heesen
+User type
+Academic/research Institution
+Organisation
+International Center for Ethics in the Sciences and Humanities (IZEW)
+Organisation size
+Medium (50 to 249 employees)
+Country of origin
+Germany
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+The International Center for Ethics in the Sciences and Humanities (IZEW) of the University of Tuebingen (Germany) welcomes the EU proposal on the regulation of AI. To achieve a comprehensive and effective result, we seek to contribute to the consultation process with the following suggestions:
+1. To classify the risk of AI systems, the proposed Artificial Intelligence Act takes a risk-based approach, distinguishing between four classes of risk (see 5.2.2).
+The creation of strict classes is difficult because their sound operationalization cannot be sufficiently ensured. That is because damages related to AI systems are currently insufficiently predictable and quantifiable. This issue concerns the need to distinguish damages to a society as a whole from individual damages as well as the assessment of material and immaterial damages. Especially damages to personal legal rights, such as freedom from discrimination, are difficult to measure. Currently, different fairness measures are used to test AI systems to ensure the protection of justice, equality of opportunity and freedom from discrimination. The different measures, however, correspond with different fairness concepts, which are not all equally and independently of the respective application context suitable to achieve the goal of justice or freedom from discrimination. 
+In contrast to strict classes of risk classification, we therefore propose a gradual distinction of the criticality of AI systems, in which additional assessment indicators are added (Art. 7).
+These indicators concern the scope of the individual's freedoms of action and question:
+•	Possibilities for users to influence the design and the result of the system
+•	Possibilities of the users to pause or reconfigure the system flow (Opt-out/configuration)
+•	Choice between different services due to the plurality of services offered and an open market structure
+In addition, the following criteria should be included to assess the criticality of an AI system:
+•	Persistence of the situation where AI systems pose a threat (e. g. the permanent use of AI in public education) 
+•	Controllability of the critical situation (degree of interconnectedness of the AI system and a possible domino effect)
+2. We further suggest the introduction of an AI registry for all AI systems to ensure sufficient precautionary measures for safe AI use. All providers of AI systems should register their AI applications in a central AI registry. This will help users to obtain transparent information about the use of AI in various products. The central AI register serves to maintain self-determination and is essential for an ethically reflected technology development and application process. 
+3. We propose supplementing the monitoring mechanisms with low-threshold, timely and effective complaint options to strengthen the (data) sovereignty of citizens and consumer rights. 
+4. The proposal mainly addresses developers, intermediaries, and public agencies (Art. 3). In doing so, the proposal is primarily a B2B or B2G regulation attempt. We propose to take greater account to affected users by giving them AI participation, transparency, and redress rights in excess to standard civil rights and consumer protection law. 
+5. Particular attention should be paid to strengthening the participation of employees in the introduction and monitoring of AI systems at workplace.
+6. Environmental limits: In addition to software, AI systems require hardware and Internet infrastructure. This is accompanied by a high level of energy and material resources. Therefore, when developing, introducing, or expanding AI systems, it should be evaluated whether the expected benefits justify the negative effects on the environment.
+7. In high-risk innovation projects it should become standard practice to ensure that sufficient (flexible) funds for integrated ethical research and reflection are available throughout the development cycle.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

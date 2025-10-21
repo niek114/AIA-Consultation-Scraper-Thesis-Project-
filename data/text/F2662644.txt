@@ -1,0 +1,57 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Consumer Reports
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2662644
+Submitted on
+19 July 2021
+Submitted by
+Nandita Sampath
+User type
+Consumer organisation
+Organisation
+Consumer Reports
+Organisation size
+Large (250 or more)
+Country of origin
+United States
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+Consumer Reports applauds the European Union for putting forth a legal framework that can regulate algorithms and artificial intelligence in a systematic and comprehensive manner. While many of these algorithms and their applications are not new, they have real potential to harm the fundamental rights of EU citizens. The provisions in this proposal can help promote transparency with these emerging technologies and mitigate harmful impacts. We hope to outline the strengths of this proposal and identify potential areas of improvement. 
+
+First, the risk-based approach serves as a robust way to categorize different applications and their respective regulations and transparency requirements. We agree that AI-enabled applications like social scoring, real-time biometric identification, and applications that violate fundamental rights and exploit children should be prohibited within the Union. 
+
+However, emotion recognition technologies were specifically mentioned as being low-risk, only requiring the basic transparency measures as outlined by the lower-risk category requirements. We disagree that these types of technologies should be placed in the low-risk category because the ability for AI to recognize emotions universally is not substantiated by science and has the potential to be discriminatory based on characteristics like race or skin color. Furthermore, we urge the EU to outline stricter requirements for or prohibit the use of AI-enabled technology that is not substantiated by science. This includes applications where companies are claiming that the correlation between different phenomena is actually causal without sufficient evidence to back up those claims. Examples include companies performing physiognomy (trying to use a person's facial features or physical characteristics to determine their character or personality) and which has been widely debunked by present day scholars, as well as other kinds of sentiment analysis tools. We suggest that the EU require that companies must show their claims are backed up by science before allowing these products on the market. 
+
+Furthermore, we also advise that the EU create provisions for public interest researchers to perform audits on algorithms, particularly for those classified in the high-risk category; this can be included in the "post market monitoring" section of the regulatory proposal. Third-party testing is an important way to ensure accountability, as it will be difficult for the government to thoroughly test and identify issues with the thousands of products on the market. Some algorithms have the potential to discriminate against individuals based on race, skin color, gender, etc., and it is important that researchers are given pathways to test algorithms for these disparate impacts that might be not properly identified and mitigated by the companies that design these algorithms. Furthermore, this framework should also provide ways for researchers and end-users of AI to notify the government and the companies building the AI-enabled technology of identified faults and/or discriminatory impacts. 
+
+As algorithms and AI become more integrated in products, basic services, and our daily lives, it is important that governments around the world quickly adopt regulations that can mitigate the harmful impacts of algorithms while maximizing the benefits. Overall, this framework is a step in the right direction and an important model that other countries should look to when designing AI regulations of their own. Thank you for your time and consideration.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

@@ -1,0 +1,64 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Infineon Technologies AG
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665583
+Submitted on
+06 August 2021
+Submitted by
+Ina SEBASTIAN
+User type
+Company/business
+Organisation
+Infineon Technologies AG
+Organisation size
+Large (250 or more)
+Country of origin
+Germany
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+Overall, Infineon Technologies AG welcomes the fact that the Commission has presented a risk-based approach aiming to regulate AI systems and their effects on economy and society. In our contribution to the upcoming discussion, Infineon focuses primarily on Article 3 (1) and Annex I – i.e. the definition of AI systems. Infineon proposes that the following aspects should be taken into account in the subsequent debate between the Commission, the European Parliament and the Council:
+
+>>> The definition of AI systems should be critically revised <<<
+- The question of which definition is “the best" will never be answered conclusively. However, Europe will have to answer the question of whether the definition is “meaningful” in terms of the regulatory intention in a compelling and as precise manner as possible. The definition of AI systems will fundamentally determine whether the intended effect will be achieved with the "AI Act".
+- On the one hand, the definition in the current draft is clearly too broad, because it also covers conventional software.
+- On the other hand, the definition is too narrow, because it completely ignores hardware. This contradicts the OECD definition and the understanding of the Enquete Commission "Artificial Intelligence - Social Responsibility and Economic, Social and Ecological Potentials" of the German Bundestag. In case of hardware, one could e.g. think in particular of edge AI devices, which have a decisive influence, for example, on the energy consumption of digitalisation and security aspects, and which are important for strong European key industries.
+- However, the chosen approach to the definition of AI systems may not even be helpful at all, because so far it mainly focuses on the technology itself, and only to a lesser extent on its effects, as will be explained below.
+
+>>> The AI Act should regulate more the WHAT / effects and less the HOW / technology <<<
+- AI regulation should not focus on individual implementations and technologies, i.e. exactly HOW an individual function was implemented (specific technology, hardware or software etc.), but on the potentially critical properties that can be associated with the use of AI and machine learning. In particular, the possibly limited predictability and validation (full validation and qualification) of the system response and effects resulting from the difference of data sets used for learning compared to the data in use (e.g. unintended bias, incompleteness of the learning data related to the actual use etc.). Source: AI definition of OECD and the German Bundestag
+- A technology-specific regulation like the “AI Act” would in any case effectively have an innovation-inhibiting character - e.g. if it is aimed at embedded systems in which, for example, clearly defined and validatable functions are implemented as a neural network for the purpose of higher accuracy, energy efficiency or speed.
+- In the present draft of the "AI Act", the definition of AI systems deals exclusively with the HOW, i.e. with technology. Due to this fact alone, the definition - regardless of its concrete final wording! - will always lead to a) some AI systems being unnecessarily covered by this regulation whose effects are predictable and desired, or b) some AI systems not being covered by this regulation because they are not (or not yet) covered by the scope as described in Article 3 (1) and Annex I.
+- Therefore, it is not sufficient to discuss and adapt the definition of AI systems in Article 3 (1) and Annex I only, but the foundation of the AI Act must substantially be more focused on the effects than on the technology itself. This different approach could, for example, already be anchored more strongly in the preamble to the AI Act.
+
+To summarise:
+The proposal of Infineon is to start a debate on the above aspects as broad and open as possible between all relevant stakeholders.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

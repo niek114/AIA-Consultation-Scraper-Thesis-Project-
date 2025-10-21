@@ -1,0 +1,57 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: SICK AG
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2662771
+Submitted on
+22 July 2021
+Submitted by
+Volker Schaber
+User type
+Company/business
+Organisation
+SICK AG
+Organisation size
+Large (250 or more)
+Country of origin
+Germany
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+The proposed regulation is a welcome initiative but needs significant improvement in some details to be applicable in practice to the cases for which it is intended.
+
+SICK AG urgently recommends the deletion of the "Bayesian estimation" from the ANNEX I (Paragraph C).  
+Bayesian techniques are not artificial intelligence, but well-proven mathematical formulas. These methods are well established in several applications in the machinery sector. For these mathematical methods the proposed requirements are unreasonable and will lead to excessive costs and to disadvantages for the European mechanical engineering industry. 
+Bayesian techniques are deterministic and do not require any training (e.g. machine learning), unlike the AI techniques from Annex I (a) and (b). 
+Therefore the requirements for transparency ("sufficiently transparent") as well as for the behavior of the output as stated in Article 13 (paragraph 1) are not applicable for Bayesian methods.
+
+Article 10 Data and data governance/ Paragraph 3: "free of errors and complete.
+SICK AG urgently recommends the deletion of the point "free of errors and complete" from the Article 10. Absolute freedom from errors and completeness of the data obtained is not possible. The risk management measures from Article 9 (4) already take into account the residual risk sufficiently and thus also the occurrence of errors and natural statistical coverage (completeness).
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

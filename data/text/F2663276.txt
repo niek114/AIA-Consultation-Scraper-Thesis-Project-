@@ -1,0 +1,65 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: ACPR
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2663276
+Submitted on
+28 July 2021
+Submitted by
+Laurent Dupont
+User type
+Public authority
+Organisation
+ACPR
+Organisation size
+Large (250 or more)
+Scope
+National
+Level of governance
+Authority
+Country of origin
+France
+Initiative
+Artificial intelligence – ethical and legal requirements
+Show original language (FR)
+Warning: Automatic translations may not be 100% accurate.
+
+The ACPR warmly welcomes the Commission’s approach which seeks a balanced framework, guarantees fundamental rights and encourages the development of trusted AI.
+She noted that it was particularly positive that the supervisory authorities of the financial sector would be entrusted with the task of supervising risky AI in the sector. This will ensure consistency in the monitoring of, on the one hand, the requirements stemming from this draft regulation and, on the other hand, the sectoral internal control and governance obligations that apply to processes involving AI algorithms.
+ACPR stresses that financial regulation includes not only customer protection measures but also governance and risk control measures to ensure stability and confidence in the financial sector. The risks of AI in the sector must therefore be considered in both respects, while the project focuses mainly on fundamental rights and thus on some of the risks that are only likely to directly affect clients in the financial sector.
+In addition, ACPR questions the reasons for the classification of credit activity as a high-risk category. European legislation has not introduced a right to credit and the risks of discrimination, already existing with traditional selection and pricing techniques, appear to be comparable to those of other financial activities (savings, insurance). To date, they have not been considered to justify specific EU legislation.
+The provision of credit, as well as other activities in the financial sector, must be controlled by firms in the sector on the basis of risk control and customer protection. It is within this framework that the monitoring of the use of AI in this area should be included.
+At technical level, the ACPR approves the principles set out in Chapter II of the draft. Their implementation, particularly as regards residual risks (Article 9), datasets (Article 10) or bias measurement (Article 15), depends on a highly evolving state of the art. Particular attention must therefore be paid to the technical implementation standards and their updating, so that they do not distort the balance between protection and technological development sought by the Regulation. Perhaps one point to be clarified in the financial sector will be the division of responsibilities between AI provider and user where the user is a regulated institution and his provider is a provider of essential services.
+The topics that ACPR has identified as priorities in its own work on AI are governance, auditability and explainability of algorithms (2020 report attached to this response). In this respect, the question of human-machine interaction arises in many cases, even for non-high-risk AI. ACPR welcomes the fact that the draft Regulation addresses this issue in Article 14 (“human control”). however, ACPR questions the justification of point 5 of this Article, which requires the involvement of “at least two natural persons” in biometric identification processes. First, the scope of this requirement seems to cover very many cases of everyday use and not only cases of facial recognition. Secondly, in order to give real guarantees, human intervention must be relevant in the light of the processes actually carried out. In other words, imposing a quantitative criterion on human intervention is more likely to increase costs than to ensure that the risks associated with these processes are controlled.
+
+Feedback from: ACPR
+EN
+(2 MB - PDF - 1 page)
+Available soon
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

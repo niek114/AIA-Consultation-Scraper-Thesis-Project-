@@ -1,0 +1,61 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Insurance Europe
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665547
+Submitted on
+06 August 2021
+Submitted by
+Arthur HILLIARD
+User type
+Business association
+Organisation
+Insurance Europe
+Organisation size
+Small (10 to 49 employees)
+Country of origin
+Belgium
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+Insurance Europe welcomes the overall objective of the Commission to create a proportionate and principles-based horizontal framework of requirements that AI systems must comply with in the EU, without unduly constraining or hindering technological development and innovation. Moreover, insurers welcome the focus on the development of mandatory requirements for high-risk AI systems that pose significant risks to the health and safety or fundamental rights of persons.
+
+The introduction of harmonised rules on AI, however, requires a very clear and precise definition of an AI system. We understand that the Commission has based its definition on the OECD’s definition of an AI system, which it defines as “a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments”. While there is currently no universally agreed upon definition of an AI system, the OECD definition is an appropriate basis to use for any European approach, particularly given the inherently global nature of AI systems and the need to ensure consistency at the international level.
+
+The definition of an AI system as currently proposed in Article 3 of the draft Regulation, however, significantly widens the OECD definition by also including software within its scope. This will result in the inclusion in its scope of systems, techniques and approaches that should not be considered as AI and will generally create confusion and a lack of legal certainty. For example, the use of statistical output from a linear regression model in the actuarial function would be covered by this proposed definition, as would statistical approaches such as exploratory data analysis that mostly involves using graphical techniques to analyse datasets, or task allocation systems that form part of the back-office functions of companies.
+
+For this reason, not only should the general area of a system’s application be considered but also, on an individual level, its specific purpose. Furthermore, it should be stated clearly that the AI applications already referred to in Annex III also need to fulfil the conditions set out in Article 7(1) to be classified as high risk.
+
+In the context of its Framework for Classifying AI Systems, the OECD notes that “certain systems that use compute technologies and analyse data are not AI systems. If the system does not fit the definition of an AI system used in this framework, it is not considered an AI system. For example, Microsoft Excel is a system for data storage and analysis. The software allows users to store, sort, and run basic analysis on inputted data. However, it is not an AI system.” This is also true of a wide variety of other software types that may potentially fall under the proposed definition.
+
+The broad definition of an AI system that has been proposed in the draft Regulation should be narrowed to be fully aligned with the OECD and avoid running the risk of inconsistent and divergent classifications of AI systems. Insurance Europe also wishes to stress the importance of ensuring consistency not only with the OECD definition, but also with the definitions used in any existing or upcoming European texts that address AI, including in particular the forthcoming liability framework for AI.
+
+Article 33(8) proposes a requirement for notified bodies to take out appropriate liability insurance for their conformity assessment activities. It is insurers’ understanding that entities acting as notified bodies under the proposed Regulation and in a corresponding capacity foreseen by other EU legislation, for instance the Medical Devices Regulation, will continue to be able to cover all of their conformity assessment activities under a single contract of liability insurance. Further, it is insurers’ understanding that such insurance will be written on the basis of standard market terms and conditions in accordance with applicable insurance contract law.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

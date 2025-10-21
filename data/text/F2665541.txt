@@ -1,0 +1,61 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: European Society for Medical Oncology (ESMO)
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665541
+Submitted on
+06 August 2021
+Submitted by
+Marijn Scholte
+User type
+Non-governmental organisation (NGO)
+Organisation
+European Society for Medical Oncology (ESMO)
+Organisation size
+Medium (50 to 249 employees)
+Country of origin
+Switzerland
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+The European Society for Medical Oncology (ESMO) welcomes the proposal for a Regulation laying down harmonised rules on Artificial Intelligence. While the intention of the Regulation is welcomed, ESMO is concerned regarding the potential impact of this Regulation on the usage of artificial intelligence technologies for the purposes of health research and healthcare practice. Currently in oncology, artificial intelligence is being used in the radiology setting (in terms of imaging) and we are in the nascent stages of AI applications in pathology, radiomics, genomics, proteomics and drug development, in addition to developing clinical decision-support tools that integrate clinical practice guidelines with new clinical data in the area of medical oncology, among others. It is thus crucial to ensure that if any regulations will be put in place to govern the safety of such systems they will aim to foster health research and optimal healthcare practice, rather than obstruct it.
+
+Additionally, EU rules on AI should be developed to serve the needs of healthcare professionals and patients, enable advancements in the AI field, and they should be made applicable in a consistent manner in all EU countries. Thus, any measures supporting the trustable development, deployment and use of AI in healthcare should address the following issues:
+
+1. Enabling regulatory environment for AI: EU rules and legislation governing the use of AI as well as AI-related measures should be tailored to the needs of healthcare professionals and patients, and they should be developed and implemented in a manner that does not stifle the use of AI in medical research and clinical practice. The current proposal for a Regulation laying down harmonised rules on AI follows a risk-based approach that sets stricter rules for AI systems that are considered as ‘high-risk’ under the Regulation. ESMO believes that, even though robust requirements are needed for systems that pose potential threats to the safety of EU citizens, the risk-based approach should not unintentionally prevent the use of AI systems that could advance medical research and improve the treatment and care provided to patients with cancer. Moreover, legislation on AI should not impose additional administrative burdens to medical researchers that use AI-driven systems as part of their research.
+
+2. GDPR: ESMO would like to underline the need for harmonising the implementation of EU data protection rules in all EU countries. In order to seize the full benefits of applying AI systems in oncology, we believe that it is crucial to ensure that the GDPR is interpreted in a consistent manner in all EU Member States. ESMO’s work on the GDPR: https://www.esmo.org/policy/eu-general-data-protection-regulation
+
+3. Impact on healthcare professionals and regulating the ‘Black Box’ doctrine: Applying AI systems in medical research and healthcare may require specific knowledge and competences. It is important that measures are taken to ensure that healthcare professionals are involved in the development of these tools from their inception and they gain the skills needed to use AI systems, including by integrating this in educational and university curricula. Moreover, while respecting intellectual property rights, the principles of AI algorithms and logic should be understandable and open for review by experts and healthcare professionals.
+
+4. Integration of future-proof scenarios: Ensure that new regulations governing the use of AI are created in a forward-looking manner that does not impede advances in scientific research, and allows for the use of health data for AI-applications supporting the medical field, e.g clinical decision-support systems et al., without making it cumbersome for healthcare professionals.
+
+ESMO welcomes the draft Artificial Intelligence Act, and would be glad to work with the European Commission to ensure that we create an AI Regulation that fosters research, especially in the healthcare setting.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

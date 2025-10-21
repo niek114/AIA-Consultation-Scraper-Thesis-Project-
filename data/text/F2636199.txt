@@ -1,0 +1,64 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Engine B
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2636199
+Submitted on
+21 June 2021
+Submitted by
+Franki Hackett
+User type
+Company/business
+Organisation
+Engine B
+Organisation size
+Small (10 to 49 employees)
+Country of origin
+United Kingdom
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+Engine B welcomes the EC’s proposals to harmonise the regulation of AI across the Union. Standardisation will help ensure that negative impacts of AI on humans are consistently prevented while supporting technology firms to engage confidently on a level and consistent playing field. 
+
+Engine B is pleased to see the EC recognises the potential benefits from the safe and ethical adoption of AI, and welcomes simplification proposals. 
+
+The proposed requirements on the safeguards for high-risk AI are good, and we especially welcome the recommendations around high quality data, and bias monitoring, detection and correction. The proposal to expand European common data spaces is particularly welcome; Engine B recommends that corporate data, especially relating to companies which have ceased to trade due to fraud, be included. We further recommend the EC align its data spaces with UK proposals to provide common data repositories for corporate data. 
+
+Engine B welcomes the EC’s commitment to transparency of AI, the documentation requirement, and the requirement to retain ‘human in the loop’ for oversight and governance. We also fully support the requirement that AI systems should be required to convey their limitations and accuracy limits to users. 
+
+Engine B fully supports the recommendation in paragraph 61 on standardisation. We encourage the EC to look into data standards and common data models in particular. The adoption of such common models enables a competitive marketplace where consumers of AI are better able to compare products for quality, and supports good quality governance of technology by making assessment of tools more consistent. By developing common data models in collaboration with technology providers, the EC could significantly aid development of an effective AI oversight industry which works for all. 
+
+Engine B is also encouraged by the proposal for AI regulatory sandboxes, and believes these can be critical to furthering our knowledge of AI and its successful implementation. We especially welcome approaches which support SMEs and start-ups, and would recommend the EC encourage the adoption of common data models and standards within these sandboxes to further enable small companies to innovate.
+Engine B also welcomes the proposal to encourage and facilitate the drawing up of codes of conduct. We are concerned though that the current proposal could lead to a proliferation of substandard codes of conduct. It is important for the users of AI and those impacted by it even in low-risk ways that design, implementation, and governance is high quality, and we recommend the EC use its market position to recognise and endorse high quality codes of conduct to which AI providers could voluntarily subscribe. 
+ 
+However, Engine B has a concern that the definition of ‘high risk’ within the proposed regulation is too narrow. The current definition may not cover activities where the poor quality AI may have broad negative societal impacts but where it is hard in advance to predict who would be harmed. 
+
+Our particular concern is for the use of AI in the production of financial and other corporate reporting information and in the provision of assurance services. If poor quality AI is adopted here, we could see major corporate and audit failures which have an enormous impact on markets. As companies increasingly use AI to produce estimates in their corporate reporting, and as major audit providers increasingly use AI to detect fraud and error in this reporting, the risks of AI grow. AI could be used to perpetrate fraud, it could introduce material errors, direct businesses towards poor sustainability behaviours in the belief that they are improving their environmental impact, or in assurance AI could fail to identify significant frauds or risk of disorderly collapse. We recommend amendments to include areas of application where misuse of AI could increase the risk of disorderly business collapse and its resulting economic detriment.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

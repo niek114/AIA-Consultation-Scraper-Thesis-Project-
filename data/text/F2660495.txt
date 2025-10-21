@@ -1,0 +1,73 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: DECO
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2660495
+Submitted on
+28 June 2021
+Submitted by
+Carla Paquito
+User type
+Consumer organisation
+Organisation
+DECO
+Organisation size
+Medium (50 to 249 employees)
+Country of origin
+Portugal
+Initiative
+Artificial intelligence – ethical and legal requirements
+Show original language (PT)
+Warning: Automatic translations may not be 100% accurate.
+
+I. General comments:
+1. On a general assessment, it can be said that the proposed Artificial Intelligence (AI) Regulation falls far short of the expectations of consumer protection organisations and also of the Commission’s own objective of making AI in something where citizens feel confident.
+
+Indeed, the measures set out here are too short in scope, applying to a very limited range of AI uses and, consequently, to a similarly limited set of problems raised by AI, not adequately protecting consumers from possible (but foreseeable) harm caused by products and services incorporating AI.
+
+It is therefore essential to amend the wording of this proposal so as to enable both the individual and society as a whole to benefit. 
+
+2. Throughout the proposal it is possible to identify a Commission presumption that the industry is and will be in compliance with the rules. With due respect, however, I consider that this is a totally erroneous approach, in that it concerns complex assessments related to the high-risk use of AI technology, which should also take into account how technology impacts on the rights and freedoms of individuals.
+
+The regulation of AI uses must be underpinned by a sound legal framework to ensure that AI is developed in accordance with fundamental consumer rights and European values. Here the European Union must show leadership and define a global standard.
+
+II. Specific comments:
+1. The proposal is focused on establishing rules for ‘high risk’ AI applications, unjustifiably excluding a wide variety of AI uses that affect consumers daily in their daily lives, such as the risk assessment for health insurance carried out using algorithms.
+
+The greater the potential of algorithmic systems to cause damage, the more stringent the legal requirements should be.
+
+2. It is also intended to prohibit the use of certain AI practices, such as practices used to distort the behaviour of an individual. However, for this purpose, only the risk of ‘physical and psychological harm’ is considered, leaving aside other foreseeable damage or harm to consumers, such as financial damage or economic discrimination.
+
+3. Moreover, this proposal is completely silent on consumer rights that should be specifically protected, such as the right to challenge the outcome of an algorithmic decision or to require human oversight in decision-making, for example. As there is no need to establish solutions when conflicts occur. 
+
+On this point, we believe that an AI Regulation should necessarily include a complaint procedure and effective remedies, including collective redress actions.
+
+4. We also believe that a Regulation of this kind should also include a review of other relevant matters, such as producer liability and product safety, in order to establish a comprehensive legal framework guaranteeing a strong set of rights for consumers, including ensuring that AI products and services offer safety throughout their lifetime; Banning unfair algorithmic practices, ensuring that AI and WMD are used in a fair, transparent and accountable manner; A robust supervisory and enforcement system; And liability rules to ensure consumer compensation in case of damage caused by AI-powered products and services.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

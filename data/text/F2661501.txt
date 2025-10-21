@@ -1,0 +1,59 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: CSC - IT Center for Science
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2661501
+Submitted on
+09 July 2021
+Submitted by
+Satu Tuomikorpi
+User type
+Other
+Organisation
+CSC - IT Center for Science
+Organisation size
+Large (250 or more)
+Country of origin
+Finland
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+AI will have a significant impact on Europe’s competitiveness and wellbeing of citizens. It is crucial to support the development of European AI technologies and applications both financially, and by building an interoperable, horizontal ecosystem of European state-of-the-art data and HPC infrastructures. It is of utmost importance to make sure, that the use of AI does not jeopardise the safety or fundamental rights of Europeans. The AI Act proposal is an ambitious attempt towards this end. However, it must be carefully assessed to make sure that its provisions are feasible and that they do not leave too much room for interpretation. Human-centricity must be kept in mind as the key overarching principle for the development of AI. In addition, what is needed and what cannot be written in any regulation, is trust, transparency and collaboration between different stakeholders. 
+
+Data is the raw material for AI. As a phenomenon it is rapidly evolving and hard to anticipate. Thus, there is a risk of overregulation that may hamper innovation. Should AI regulation be made at all, systems falling within its scope cannot be defined by existing technologies. Not only would such definition become soon outdated, it would also create a loophole: if a certain technology is not included in the definition of AI in the Regulation, it does not have to comply with it. This creates problematic situations, where doing some things would be prohibited if they are done using one specific technology but allowed if they are done with another one. Also, if the EC will have the power to update the definition of AI whenever necessary, there is no legal certainty as any change to the definition would also change the scope of the Regulation.
+
+In light of the above, the definition of AI systems must be made generic enough, to be able to include emerging technologies without having to update the Regulation. The aim must be to regulate certain purposes for which technology is used, not the technologies as such. Regulation must also take into account the context in which AI is used and, for example, not limit the use of AI for research and innovation purposes, to avoid creating barriers for a flourishing data economy. 
+
+CSC welcomes the EC’s risk-based approach whereby most of the provisions of the AI Act only concern prohibited or high-risk AI systems. However, such classification requires that the definitions and requirements of the prohibited and high-risk AI systems are formulated clearly and precisely, to avoid leaving too much room for interpretation. Vague formulations, such as ‘psychological harm’ in Art. 5.1(a), open the door for subjective and even arbitrary interpretations of the Regulation.
+
+It is crucial to make sure that high-risk AI systems do not become de facto prohibited ones due to impossibly strict requirements imposed on them. For example, the requirements for the quality of training, validation and testing data in Art. 10.3 must be designed so that they can be met in practice. The aim of avoiding biased data is valid but the requirement of the data to be entirely free of errors is unrealistic and must therefore be re-assessed.
+
+Considering the role of data as the fuel of AI, the AI Act must be closely aligned with the EU’s data regulation making sure, for example, that individuals are informed about the purposes of which their personal data is used. In general, it is essential that the use of AI is transparent. This includes transparency of algorithms which is crucial for the human oversight of AI. It must be noted, however, that effective human oversight requires adequately skilled professionals. Therefore, competence development in all fields and sectors is a key aspect to ensure not only the development of state-of-the-art AI systems in Europe but also their appropriate use.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

@@ -1,0 +1,48 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: European Healthcare Fraud and Corruption Network-AI Working Group
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665605
+Submitted on
+06 August 2021
+User type
+Non-governmental organisation (NGO)
+Organisation
+European Healthcare Fraud and Corruption Network-AI Working Group
+Organisation size
+Micro (1 to 9 employees)
+Country of origin
+Belgium
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+EHFCN AI Working Group welcomes the proposal of publishing a regulation in the field of  Artificial Intelligence (AI), which will facilitate the direct establishment of common regulatory rules for all Member States. Feedback will be focused on the dispositions related to Public Health. Creating a European Artificial Intelligence Board is a step in the right direction, but the relevant articles (56 & 57) should also include a more rigorous stakeholder representation and also specific procedure of stakeholder consultation, according to the principles of transparency and representativeness. The provision of adoption of Codes of Conduct  (article 69) should also include implementing acts and be linked to the relevant codes of conduct of GDPR legislation. Also codes of conduct, as soft law provisions, should be user friendly (in the field of public health the patient is considered to be the user of healthcare services), written in a clear, accessible and comprehensible language for every EU citizen (not only in english). Regarding AI Regulatory Sandboxes (articles 53 & 54) and given the fact that public health constitutes a main area of development of AI regulatory Sandboxes and also that health data are a special category of personal data (GDPR, art. 9), it would be very useful to determine the criteria of data collection with a link to GDPR legislation .  
+Finally the suggested categorisation of risk activities in AI could also be related to the categories of data used  ( open source high-level aggregated national/regional data, or anonymised  individual (health) data), incorporating a clearer definition, distinction and methodology of  secondary use of data and a solid distinction between legal dispositions and ethical considerations.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

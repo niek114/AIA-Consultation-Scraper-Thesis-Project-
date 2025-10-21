@@ -1,0 +1,59 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: European Association of Hospital Pharmacists
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665208
+Submitted on
+02 August 2021
+Submitted by
+Gonzalo Marzal Lopez
+User type
+Non-governmental organisation (NGO)
+Organisation
+European Association of Hospital Pharmacists
+Organisation size
+Micro (1 to 9 employees)
+Country of origin
+Belgium
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+The European Association of Hospital Pharmacists (EAHP) welcomes this legislation proposal on the ethical and legal requirements on Artificial Intelligence (AI). The proposed regulation lays down a set of harmonised rules for the development, placement on the market and use of AI systems in the Union, this is particularly important (as explained in the proposal) for systems that can pose signifiable risks on the health of citizens. EAHP also recognizes the importance of labelling as high-risk AI systems that can have a significant impact or risk on the health of the user (like medical devices) and the importance of having a set of ethical and legal requirements on the development, placement and use of these devices in the market (adding to all requirements established in the medical devices regulation).
+
+However, despite these positive features, EAHP believes that the legislative proposal should be more specific for health-related AI systems and include as high-risk systems all those that interact with patients and are linked with patient’s treatments and research ..or are being used to generate treatment suggestion based on misinformation.. For instance, AI systems that analyse health data to better diagnose diseases. All AI systems that imply the use of health data or have an impact on patients’ treatment whatsoever should be considered as high risk not only the ones that according to the draft regulation can harm or cause a threat to the health of the users. All health-related AI systems should be included as high-risk system or should have a separate set of rules to ensure the correct use of these systems. In addition, the legislation should include a mention to nanomedicine and nanotechnology, when being used to effectively diagnose, treat, and prevent various disease with the support of AI. 
+
+The proposed legislation does not treat the algorithms used on mobile apps or mobile operating systems as high risk, and it’s important to keep in mind that there are health apps and m-health application that could be linked with AI systems and that should also include as high risk to protect patients and the safety of their data. It is possible that some algorithms used in ad tracking or recommendation engines might be prohibited as manipulative or exploitative practices.
+
+The legislative proposal lacks detailed legal requirements on the right for patients to have access to the information processed by the AI systems and to understand the use of their data. The draft regulation is not very concise on the information that must be disclosed to the people who are affected by AI systems. The draft regulation requires that people be informed when they “interact with” an AI system or when their emotions or gender, race, ethnicity or sexual orientation are “recognised” by an AI system. This doesn’t not include all data and interactions that patient can have and provide to AI systems. This shortcoming should be addressed. 
+
+The proposal allows providers of AI systems to use sensitive data to ensure that there is no bias on the data used and the results provided by the AI systems, but this information and the use of this data is only accessible to regulators upon request. In our opinion the legislative proposal should, however, have a stronger definition and better requirements when it comes to using data from the AI systems, especially for sensitive data like health information.
+
+Regarding more technical comments, From EAHP we believe that in page 33 paragraph 68 the conformity assessment needs to be done at the latest 3 months prior the AI system is places in the market. In addition, we believe that the legislation should also apply to AI systems developed for military purposes. Finally, a guidance needs to be included on chapter 1 article 57 to describe the background required for the Board.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

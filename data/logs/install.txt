@@ -1,0 +1,66 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\niek1\Desktop\PDF EU scraper> pip install -r requirements.txt
+Requirement already satisfied: requests in c:\users\niek1\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from -r requirements.txt (line 1)) (2.32.5)
+Collecting beautifulsoup4 (from -r requirements.txt (line 2))
+  Downloading beautifulsoup4-4.14.2-py3-none-any.whl.metadata (3.8 kB)
+Collecting pandas (from -r requirements.txt (line 3))
+  Downloading pandas-2.3.3-cp311-cp311-win_amd64.whl.metadata (19 kB)
+Collecting pdfminer.six (from -r requirements.txt (line 4))
+  Downloading pdfminer_six-20250506-py3-none-any.whl.metadata (4.2 kB)
+Collecting xlsxwriter (from -r requirements.txt (line 5))
+  Downloading xlsxwriter-3.2.9-py3-none-any.whl.metadata (2.7 kB)
+Requirement already satisfied: charset_normalizer<4,>=2 in c:\users\niek1\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from requests->-r requirements.txt (line 1)) (3.4.3)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\niek1\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from requests->-r requirements.txt (line 1)) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\niek1\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from requests->-r requirements.txt (line 1)) (2.5.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\niek1\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from requests->-r requirements.txt (line 1)) (2025.8.3)
+Collecting soupsieve>1.2 (from beautifulsoup4->-r requirements.txt (line 2))
+  Downloading soupsieve-2.8-py3-none-any.whl.metadata (4.6 kB)
+Requirement already satisfied: typing-extensions>=4.0.0 in c:\users\niek1\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from beautifulsoup4->-r requirements.txt (line 2)) (4.15.0)
+Requirement already satisfied: numpy>=1.23.2 in c:\users\niek1\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from pandas->-r requirements.txt (line 3)) (2.3.2)
+Collecting python-dateutil>=2.8.2 (from pandas->-r requirements.txt (line 3))
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting pytz>=2020.1 (from pandas->-r requirements.txt (line 3))
+  Downloading pytz-2025.2-py2.py3-none-any.whl.metadata (22 kB)
+Collecting tzdata>=2022.7 (from pandas->-r requirements.txt (line 3))
+  Downloading tzdata-2025.2-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting cryptography>=36.0.0 (from pdfminer.six->-r requirements.txt (line 4))
+  Downloading cryptography-46.0.3-cp311-abi3-win_amd64.whl.metadata (5.7 kB)
+Collecting cffi>=2.0.0 (from cryptography>=36.0.0->pdfminer.six->-r requirements.txt (line 4))
+  Downloading cffi-2.0.0-cp311-cp311-win_amd64.whl.metadata (2.6 kB)
+Collecting six>=1.5 (from python-dateutil>=2.8.2->pandas->-r requirements.txt (line 3))
+  Downloading six-1.17.0-py2.py3-none-any.whl.metadata (1.7 kB)
+Requirement already satisfied: pycparser in c:\users\niek1\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from cffi>=2.0.0->cryptography>=36.0.0->pdfminer.six->-r requirements.txt (line 4)) (2.22)
+Downloading beautifulsoup4-4.14.2-py3-none-any.whl (106 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 106.4/106.4 kB 1.6 MB/s eta 0:00:00
+Downloading pandas-2.3.3-cp311-cp311-win_amd64.whl (11.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 11.3/11.3 MB 1.7 MB/s eta 0:00:00
+Downloading pdfminer_six-20250506-py3-none-any.whl (5.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.6/5.6 MB 1.5 MB/s eta 0:00:00
+Downloading xlsxwriter-3.2.9-py3-none-any.whl (175 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 175.3/175.3 kB 1.2 MB/s eta 0:00:00
+Downloading cryptography-46.0.3-cp311-abi3-win_amd64.whl (3.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.5/3.5 MB 1.4 MB/s eta 0:00:00
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 229.9/229.9 kB 611.8 kB/s eta 0:00:00
+Downloading pytz-2025.2-py2.py3-none-any.whl (509 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 509.2/509.2 kB 886.3 kB/s eta 0:00:00
+Downloading soupsieve-2.8-py3-none-any.whl (36 kB)
+Downloading tzdata-2025.2-py2.py3-none-any.whl (347 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 347.8/347.8 kB 1.1 MB/s eta 0:00:00
+Downloading cffi-2.0.0-cp311-cp311-win_amd64.whl (182 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 182.8/182.8 kB 1.2 MB/s eta 0:00:00
+Downloading six-1.17.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: pytz, xlsxwriter, tzdata, soupsieve, six, cffi, python-dateutil, cryptography, beautifulsoup4, pdfminer.six, pandas
+  Attempting uninstall: cffi
+    Found existing installation: cffi 1.17.1
+    Uninstalling cffi-1.17.1:
+      Successfully uninstalled cffi-1.17.1
+Successfully installed beautifulsoup4-4.14.2 cffi-2.0.0 cryptography-46.0.3 pandas-2.3.3 pdfminer.six-20250506 python-dateutil-2.9.0.post0 pytz-2025.2 six-1.17.0 soupsieve-2.8 tzdata-2025.2 xlsxwriter-3.2.9
+
+[notice] A new release of pip is available: 24.0 -> 25.2
+[notice] To update, run: C:\Users\niek1\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
+PS C:\Users\niek1\Desktop\PDF EU scraper>

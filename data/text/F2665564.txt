@@ -1,0 +1,64 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: TIC Council
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665564
+Submitted on
+06 August 2021
+Submitted by
+Mann Nguyen
+User type
+Business association
+Organisation
+TIC Council
+Organisation size
+Small (10 to 49 employees)
+Country of origin
+Belgium
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+TIC Council, representing independent Testing, Inspection, and Certification (TIC) companies, welcomes the Commission’s proposal for a Regulation establishing harmonized rules on Artificial Intelligence (AI), which moves toward greater safety and security for European consumers.  
+
+AI is a fast-evolving technology with many benefits but also many challenges. As independent TIC companies, we are convinced that the safety and security of customers must prevail. We therefore support the provisions of the proposal that will help meet these objectives:  
+- We support the risk-based approach that has been adopted for the proposal as it minimizes the potential impact on customer’s fundamental rights.  
+- We also agree that safety and security components of products should, as proposed, be subject to third party ex-ante conformity assessment according to the relevant sectoral legislation. Following an already established system will certainly help to avoid legal uncertainty.  
+- We welcome the possibility of regularly updating Annex III of the text. This will have to follow closely new technology developments to avoid legal gaps. 
+- We also support the provision mandating new ex ante re-assessments of the conformity in case of substantial modifications to the AI systems.  
+- We welcome the non-discriminatory access to data for validation of high-risk systems also for notified bodies through the European Common Data Spaces.  
+
+However, TIC Council would like to express its concerns about certain provisions in the text that hinder the protection afforded to consumers, the safety of AI systems and contravene the objective of the text.  
+
+TIC Council advocates a mandatory third-party conformity assessment procedure for stand-alone AI-systems, explicitly listed in Annex III and for new products with AI systems if the goal of the text is to be achieved. The self-declaration procedure by industry could either affect consumer’s fundamental rights or be impractical for some significant parts of the AI innovation ecosystem. On the contrary, TIC companies already have the capacity, resources, infrastructure, and expertise to perform the monitoring and assessment of AI-systems. TIC experts are able to perform the required assessments with a high degree of certainty, highly mature processes and organizational structures within the assessment organization to ensure reliability and replicability of the assessments. Thus, these AI-systems will be preventively assessed by TIC companies and will access the internal market in a safe and compliant manner.  
+
+Then, one of the pillars of the text is to make AI trustworthy. TIC companies, characterized by their independence and expertise, are the actors that can effectively participate in the improvement of the AI environment and make it trustworthy, especially for European consumers. TIC companies conducting third-party conformity assessments guarantee impartial and comprehensive testing, inspection and certification of AI systems entering the European market. Ultimately, third-party conformity assessment procedures will boost consumers’ confidence and encourage them to choose AI-systems that meet the highest standards of protection.   
+
+Finally, we call on the Commission to also grant access to the European Common Data Spaces for lower-risk systems, to allow notified bodies to provide their services even outside the mandatory framework set by the Commission. As a result, TIC companies conducting third-party conformity assessments will contribute to a high level of consumer protection and better conditions for fair competition and innovation.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

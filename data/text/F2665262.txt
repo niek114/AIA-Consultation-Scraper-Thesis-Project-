@@ -1,0 +1,59 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Federal Ministry for Social Affairs, Health, Care and Consumer Protection
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665262
+Submitted on
+03 August 2021
+Submitted by
+Maria REIFFENSTEIN
+User type
+Public authority
+Organisation
+Federal Ministry for Social Affairs, Health, Care and Consumer Protection
+Organisation size
+Large (250 or more)
+Scope
+National
+Level of governance
+Authority
+Country of origin
+Austria
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+Eine rechtliche Regulierung von KI-Systemen ist dringend notwendig. Das AIA wird daher grundsätzlich begrüßt, bedarf aber einer ausführlichen Diskussion insb aus Sicht der betroffenen Konsument*innen. 
+Der risikobasierte Ansatz ist sinnvoll, berücksichtigt aber leider keine wirtschaftliche Risiken. Dies greift zu kurz, wenn man an zunehmendes personalisiertes Marketing/Profiling denkt, einschließlich personalisierter Preise. Konsument*innen erhalten immer öfter nur Ausschnitte der Angebotswelt. Vieles wird ihnen vorenthalten oder zB bei smarten Geräten für sie entschieden, ohne dass sie häufig den Grund dafür kennen. Bonitätsscoring ist gem Annex III auch nur dann hochriskant, wenn es nicht durch Klein(st)unternehmer erfolgt. Das Risiko steht aber in keinem Verhältnis zur Größe eines Unternehmens. Auch Emotionserkennung gilt offenbar nicht als hochriskant, sondern unterliegt ausschließlich der Informationspflicht gem Art 52. Die Definition der KI-Systeme ist zwar breit. Der Kern der Regelungen gilt aber nur für hochriskante KI. IoT-Anwendungen erfordern – mit Ausnahme von Infrastrukturleistungen – bedauerlicherweise keinerlei Verpflichtungen für den Anbieter.
+Die Liste der verbotenen KI-Systeme greift ebenfalls zu kurz. So verbietet Art 5 Abs 1 lit a KI-Systeme mit unterschwelliger Beeinflussung nur dann, wenn damit ein Schaden einhergeht, während die AVMD Richtlinie etwa Schleichwerbung generell verbietet. Das Abstellen auf einen Schaden sollte daher gestrichen werden. Dasselbe gilt für Art 5 Abs 1 lit b. Auch das Verbot von social scoring, das grundsätzlich begrüßt wird, ist zu eng gefasst (kein Verbot der Primärnutzung von Daten für social scoring, wenn „verhältnismäßig“, kein Verbot KI-basierter sozialer Auslese durch Unternehmen). Überwachungsmaßnahmen außerhalb von Echtzeit-Fernidentifizierungssystemen werden ebenfalls nicht erfasst. Diese Liste bedarf einer grundlegenden Überarbeitung.
+Ein weiterer grundsätzlicher und schwerwiegender Kritikpunkt liegt darin, dass Betroffene keinerlei Informations- oder sonstige Betroffenenrechte außerhalb der DSGVO haben und Diskriminierung daher kaum einschätzen können (zB bei Bonitätsprüfung).
+Noch schwerer wiegt, dass der VO Vorschlag keinerlei Rechtsbehelfe oder haftungsrechtliche Ansprüche für Betroffene vorsieht. Die Kontrolle erfolgt damit ausschließlich behördlich. Der zivilrechtliche Vollzug wird in keiner Weise adressiert. Unklar ist auch, wer Recht auf Einspruch gegen Entscheidungen notifizierter Stellen hat („Beteiligte…, die ein berechtigtes Interesse an einer solchen Entscheidung haben“, ohne Erläuterung des berechtigten Interesses). Wenn die Produkthaftungsrichtlinie nicht in ausreichendem Ausmaß geändert wird, müsste das AIA jedenfalls durch Haftungsregelungen ergänzt werden. Hinsichtlich der Rechtsdurchsetzung sieht der VO Vorschlag auch keine Änderung der VerbraucherbehördenkooperationsVO (CPC) oder der VerbandsklagenRL hinsichtlich einer Ausweitung des Anhangs vor, sodass auch hier kein erweitertes zivilrechtliches Schutzniveau für Verbraucher*innen geschaffen wird.
+
+Schließlich bedarf es einer umfassenden Diskussion der vorgeschlagenen Konformitätsbewertungsregelungen. KI-Systeme, die in den Annex II fallen, sind gem Art 6 Abs 1 nur dann als KI mit hohem Risiko zu qualifizieren, wenn sie einer externen Zertifizierung unterliegen. Ob dies der Fall ist, muss nach der jeweiligen New Approach Richtlinie geprüft werden. Die New Approach Richtlinien sehen aber nur in wenigen Fällen eine Drittzertifizierung vor. Das Risiko durch Verwendung eines KI-Systems konnte aber zum Zeitpunkt der RL noch nicht mitbedacht werden (s. zB die Puppe Cayla). Auch bei Annex III-Anwendungen wird eine interne Konformitätsbewertung häufig nicht ausreichen, wie dies Art 43 festlegt. Jedenfalls für Biometrie und Bonitätsbewertungssysteme darf eine interne Bewertung nicht ausreichen. Biometrische KI-Systeme sollten einer Zustimmung der Betroffenen bedürfen.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

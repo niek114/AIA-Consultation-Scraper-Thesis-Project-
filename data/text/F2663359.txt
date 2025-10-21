@@ -1,0 +1,67 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Bayer AG
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2663359
+Submitted on
+29 July 2021
+Submitted by
+Charlotte van Randenborgh
+User type
+Company/business
+Organisation
+Bayer AG
+Organisation size
+Large (250 or more)
+Country of origin
+Germany
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+Mastering the new opportunities and challenges of innovation in life sciences is key for societies in the 21st century. One important element is a supportive policy and regulatory framework that fosters scientific advancement while at the same time ensuring trust and a high safety standard for human health and the environment. Bayer stands at the forefront of the “Bio-Revolution” with Artificial Intelligence (AI) being a crucial technical enabler for drug development, applications in Cell- and Gene-Therapy, New-Breeding-Techniques or Data-Driven-Farming.
+ 
+The way AI is regulated is a decisive factor for EU’s future competitiveness in the international field. Bayer shares the EU Commission’s ambition of making Europe a world-leading destination for the development and deployment of trustworthy AI.  In order to maintain Europe’s competitiveness, the Act should not impose unproportionate duties on European AI providers. To create an even playing field for European AI providers with the rest of the world, the Act itself must be competitive to non-European AI legislation. 
+
+As an active member of the EU Commission’s AI High-Level Expert Group 2018-20, Bayer has been working on human centered policy proposals for the regulation of AI that ground on a risk-based approach combined with a sector-specific regulation. We therefore highly welcome that the EU Commission has put the risk-based approach at the center of the regulation and are convinced that looking at the risk of applications is key to strike the balance between necessary regulation and innovative freedom. 
+
+Below, we present our initial assessment of the proposal:
+
+Definition
+We welcome that the definition of AI in the proposal builds on the work of the OECD with its technology-neutral character allowing for the fast developments of AI technologies. However, parts of the proposed definition focus on outdated aspects of AI, such as logic- and knowledge-based approaches and optimized searched methods (Annex 1 (b) and (c), respectively). Rather, the definition of AI should focus and include current and future aspects of AI to avoid overly broad application.
+
+Regulatory Environment
+We understand that AI is a cross-cutting technique that falls under various existing legislation but are concerned that an overly complex regulatory environment is created. Especially for AI systems that are in scope of sector specific legislation (e.g. medical devices) three regulatory dimensions would apply: the proposed AI Act, the Medical Devices Regulation and the General Data Protection Regulation (GDPR) with overlapping requirements, such as for technical documentation. Furthermore, the proposal does not solve the tension between GDPR principles, such as data minimization, purpose limitation or storage limitation, and the full deployment of the potential of AI. Clear guidance from data protection authorities is required on the processing of personal data in the context of AI.
+
+Validation – Human domain – Risk approach 
+High quality data is essential for the successful uptake of safe AI in Europe. To ensure the consistency between training data and production data, the validation mechanisms could extend to include ground-truth evidence to reproduce the underlying data generating process. Further, the inclusion of human domain experts in certain cases would also be beneficial to detect incongruences between AI output and rational conclusions. 
+
+Governance structure & penalties
+The successful development and deployment of AI in Europe will also depend on the governance requirements for the underlying data. Bayer asks for more clarity on the governance structure and to whom, for instance, serious incidents must be reported.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

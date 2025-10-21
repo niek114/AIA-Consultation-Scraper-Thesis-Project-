@@ -1,0 +1,45 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Anonymous
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2334478
+Submitted on
+02 June 2021
+User type
+EU citizen
+Country of origin
+Italy
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+Although among the purposes of the regulation it is mentioned ensuring people's right to get access to certain essential private services (e.g. financial services), the regulation includes among banking sector high-risk AI systems only those for creditworthiness assessment and omit those for customer due diligence required by EU AML/CFT Directive.
+No need to say that AML/CFT risk scoring comes one step earlier than credit risk scoring (before applying for a loan a person should pass successfully through customer due diligence - CDD - that at a growing number of institutions is run by relying on AI systems) and the former can prevent people to get access to financial services more than the latter.
+Given that people financial exclusion is an issue of material relevance (see EBA's steps to address ‘de-risking’ practices), and ineffective AI systems being used for CDD may prevent people (especially those belonging to vulnerable categories such immigrants, religious minorities) from getting access to basic financial services and thus increasing the financial exclusion, it is worth to consider the inclusion among category 5 in Annex III of the regulation 'AI systems used for CDD both for onboarding and transaction monitoring'. It follows that AML/CFT competent authorities should be vested with the responsibilities to verify financial institutions' compliance with the provisions laid down in the regulation at hand.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

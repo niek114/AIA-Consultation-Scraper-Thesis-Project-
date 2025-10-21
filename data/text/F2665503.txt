@@ -1,0 +1,86 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Deutscher Anwaltverein
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665503
+Submitted on
+06 August 2021
+Submitted by
+Hannah Adzakpa
+User type
+Other
+Organisation
+Deutscher Anwaltverein
+Organisation size
+Medium (50 to 249 employees)
+Country of origin
+Germany
+Initiative
+Artificial intelligence – ethical and legal requirements
+Show original language (DE)
+Warning: Automatic translations may not be 100% accurate.
+
+See full SN in PDF file.
+
+1. Basic approach to regulation
+The fundamental approach to regulation in the form of horizontal regulation and the cornerstones of high-risk AI systems are to be welcomed, namely:
+— a reinforced obligation for quality and risk management (Articles 9 and 17), including Post Market Monitoring (Art. 61),
+— stronger regulation of training and test data (Articles 10 and 9 (5) — (7)),
+— a claim for an event logging (Articles 12, 16 (a) and (d) and 29 (5)), and finally
+— the monitoring obligations not only of the provider but also of the user (Article 29 (4)).
+
+2. Subject matter and scope of the regulation
+Annex I to the draft covers the regulated systems very broadly, including normal expert systems and search and optimisation methods. It is necessary to examine whether the definition of AI by means of Annex I should be limited to systems whose decisions or behaviour (by reasonable means) can be regarded as practically unpredictable. 
+It is true that, in so far as there is a case of artificial intelligence under the AI Regulation, it rightly distinguishes different levels of AI; However, the proposed three-step approach seems somewhat arbitrary in some cases. 
+
+3. Scope and structure of the draft regulation/regulatory technique
+The Regulation as a whole is very long and complex in its structure. This is likely to give rise to certain difficulties in its application and, in some cases, to legal uncertainty. The rules are of varying degrees of regulation. Some give real details, sometimes only rough lines. Here, the general principles should be clarified and compared with other principles of European product safety law, but also of product liability law. This would also increase legal certainty.
+
+4. Detailed rules and aspects
+— There is a question of why users within the meaning of the proposed Regulation are only professional users (Article 3 (4)).
+— Considerate that biometric identification systems are largely prohibited only if they operate in real time (Article 5 (1) (d))
+— It is striking that Article 9 requires only the recognised state of the art for safety measures.
+— The requirement in Article 10 (3) (1) that training, validation and test records must be relevant, representative, correct and complete does not appear realistic
+— it is contradictory if, in Article 28 (2), the supplier is partially released from responsibility per se if the AI systems are significantly altered or used contrary to their intended purpose. This is contrary to the fundamental approach of both product liability law and AI-VO-E (see, for example, Articles 9 (2) (b), 4 (c), 13 (3) (b) and 14 (2)), since the likely abuse of a system should always be taken into account by the provider.
+(depending on the instructions for use), monitoring obligations on the user going beyond the monitoring obligations could be detrimental to innovation in the sense of permanent monitoring (Article 29 (4)).
+
+5. Protection of data and confidentiality
+The comprehensive data recording and documentation required by the KU-VO-E, which is to be welcomed from the point of view of public security and civil law, conflicts with the protection of data and confidentiality. 
+
+6. Regulations and SMEs
+The question is whether the AI real laboratories (sandboxes), as provided for in Article 53 et seq., should be extended in the context of constitutional admissibility (equality) in order to enable SMEs to develop innovative AI systems and also to test them in practice.
+
+7. Other consequences
+When the AI Regulation enters into force, it will have a direct impact on national law. In this respect, it is doubtful whether some of the provisions of AI-VO-E do not impose too far-reaching obligations on operators and thus liability risks.
+
+Feedback from: Deutscher Anwaltverein
+EN
+(169.6 KB - PDF - 1 page)
+Available soon
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

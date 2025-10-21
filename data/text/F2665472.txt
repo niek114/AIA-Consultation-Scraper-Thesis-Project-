@@ -1,0 +1,54 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: ZPP
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665472
+Submitted on
+05 August 2021
+Submitted by
+Jakub BIŃKOWSKI
+User type
+Business association
+Organisation
+ZPP
+Organisation size
+Small (10 to 49 employees)
+Country of origin
+Poland
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+ZPP od dawna podkreślał, że przygotowanie adekwatnej regulacji w zakresie sztucznej inteligencji będzie wyjątkowo wymagającym zadaniem. Z jednej strony bowiem oczywistym celem regulatora jest zabezpieczenie obywateli i podmiotów gospodarczych przed nieetycznym stosowaniem technologii AI, z drugiej jednak – wprowadzenie zbyt daleko idących restrykcji skutkowałoby zahamowaniem innowacji, a przez to również pogorszeniem pozycji konkurencyjnej europejskich podmiotów. Jakkolwiek w przedstawionym projekcie dostrzegamy przestrzeń do doprecyzowań i zmian, uważamy że podejście Komisji jest w powyższym kontekście co do zasady proporcjonalne i w odpowiedni zabezpiecza oba ze wspomnianych dóbr. 
+W przedstawionym projekcie dostrzegamy cztery obszary, które powinny być przedmiotem dalszych prac bądź rewizji. 
+W pierwszej kolejności zwracamy uwagę na brak adekwatnego rozróżnienia odpowiedzialności między użytkownikami AI, realnie wykorzystującymi określone rozwiązania w prowadzonej działalności, a podmiotami dostarczającymi te rozwiązania na rynek. Wydaje się, że najbardziej logiczne byłoby, gdyby odpowiedzialność za zgodność rozwiązania i monitorowanie go po wprowadzeniu na rynek ponosiły podmioty wdrażające (wspomniani użytkownicy) – tylko oni mogą bowiem weryfikować ostateczne zastosowanie konkretnego rozwiązania opartego na AI. Problematyczny w tym kontekście wydaje się brak definicji podmiotu wdrażającego – wydaje się, że należałoby uzupełnić regulację w tym zakresie.
+Dalej, zwracamy uwagę na fakt, iż niektóre sformułowania wykorzystane w przedstawionym projekcie wyznaczają standardy de facto niemożliwe do spełnienia. Dla przykładu, art. 10 ust. 3 stanowi, że „zbiory danych szkoleniowych, walidacyjnych i testowych muszą być adekwatne, reprezentatywne, wolne od błędów i kompletne”.  Trudno jest zagwarantować „brak błędów”, a więc doskonałość – dlatego zobowiązanie powinno dotyczyć raczej należytych starań w zakresie zapewnienia, że zbiory danych są wolne od błędów i kompletne. Co więcej, art. 14 (4a) stanowi, że osoby którym powierzono nadzór ludzki muszą umożliwiać „zrozumienie w pełni możliwości i ograniczeń systemu sztucznej inteligencji wysokiego ryzyka”. Zrozumienie „w pełni” tak skomplikowanej i szybko ewoluującej materii będzie prawdopodobnie wyznaczało nieracjonalnie wysoki standard, stąd też należałoby zrewidować regulację w taki sposób, by odnosiła się do „odpowiedniego” lub „wystarczającego” zrozumienia.
+Część przewidzianych w regulacji wymogów wydaje się ponadto nieproporcjonalna, choćby art. 64 (2) zobowiązujący do zapewnienia (na uzasadniony wniosek) organom nadzoru rynku dostępu do kodu źródłowego systemu sztucznej inteligencji. Wobec faktu, że istnieją alternatywne metody weryfikacji działania systemu AI, a sam kod źródłowy jest chroniony jako tajemnica handlowa, obowiązek ten wydaje się być nadmierny.
+Ostatecznie, zwracamy uwagę na konieczność doprecyzowania części elementów regulacji, m.in. poprzez skonkretyzowanie oczekiwań dot. należytej staranności w kontekście art. 10 poświęconego danym i zarządzaniu nimi, czy choćby sposobu pogodzenia wynikającego z art. 12 obowiązków dotyczących rejestrowania, z wynikającymi z RODO zasadami w zakresie minimalizacji pobieranych danych.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

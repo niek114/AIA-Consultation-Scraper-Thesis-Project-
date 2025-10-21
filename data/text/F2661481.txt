@@ -1,0 +1,62 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: DEKRA e.V.
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2661481
+Submitted on
+08 July 2021
+Submitted by
+Oliver Deiters
+User type
+Company/business
+Organisation
+DEKRA e.V.
+Organisation size
+Large (250 or more)
+Country of origin
+Belgium
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+As an independent Testing, Inspection and Certification (TIC) company, we welcome the European Commission’s proposal for a Regulation laying down harmonized rules on Artificial Intelligence to ensure the safety and security of European consumers in the area of Artificial Intelligence. 
+Third-party conformity assessments conducted by independent TIC companies guarantee not only the impartial and thorough testing, inspection and certification of any product entering the European market, but also of AI systems. The assessments offer the providers’ expertise and ensure that products meet the requirements of the relevant applicable legislation and high consumer protection. Through this, a level playing field is being created on which ground innovation can flourish. 
+It is necessary to build a legislative framework suitable for the future and meeting, among others, highest standards in terms of consumer protection. Not including the highest standards as regards scrutiny and quality assurance of new products in the form of third-party assessments, due to the fear that notified bodies might not yet have the capacity to perform the conformity assessments of AI systems, seems counterproductive to the aforementioned goal. TIC companies have already shown their capacity to successfully innovate or adapt their services offering to the evolution of technology, as is currently the case in the area of cybersecurity. 
+In particular, with regards to stand-alone AI systems with risk of adverse impact on fundamental rights, which are explicitly listed in Annex III, we do believe that internal control checks by the industry (with the exception of remote biometric identification systems that would be subject to third-party conformity assessment) are not sufficient and might even be impractical for significant parts of the AI innovation ecosystem. 
+We are convinced, that there is a need to have qualified and independent resources to conduct conformity assessment on AI systems. This also includes providing the necessary infrastructure, such as tooling. Furthermore specialized experts need to be able to perform the required assessments with high certainty, very mature processes and organizational structures within the assessing organization to assure reliability and replicability of the assessments.
+With this proposal, there will be no additional financial burden on small-scale providers, as the European Commission considered this and suggested offering adequate fees for small-scale providers when turning to notified bodies. 
+As also highlighted by Commission officials, many manufacturers/providers would turn to notified bodies even if they are not obliged to do so. This is for reputational reasons and due to their lack of expertise to perform conformity assessments of their own.
+Finally, as mentioned in the White Paper on AI published by the European Commission last year, “the carrying out of conformity assessments could be entrusted to notified bodies designated by Member States. (..) Independent assessment will increase trust and ensures objectivity. It could also facilitate the work of relevant competent authorities. The EU enjoys excellent testing and assessment centres and should develop its capacity also in the area of AI”
+We further support,
+• the development of a risk-classification of AI systems
+• mandatory conformity assessments according to the relevant sectoral legislation when the AI system is a safety and/or security component of a product
+• new ex ante re-assessments of conformity in case of substantial modifications to the AI systems
+• that Annex III will need to get constantly updated to take new technology developments into account
+• the non-discriminatory access to data for the validation of high-risk systems also for notified bodies through European Common Data Spaces, to be able to perform our duties. We call on the Commission to also grant this access for lower-risk systems, to allow notified bodies to perform their services
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

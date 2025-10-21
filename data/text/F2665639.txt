@@ -1,0 +1,75 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Institute for Social Science Research e.V. (ISF Munich)
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665639
+Submitted on
+06 August 2021
+Submitted by
+Norbert Huchler
+User type
+Academic/research Institution
+Organisation
+Institute for Social Science Research e.V. (ISF Munich)
+Organisation size
+Small (10 to 49 employees)
+Country of origin
+Germany
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+The Institute for Social Science Research e.V. (ISF Munich) (Germany) welcomes the EU proposal on the regulation of AI. From our own research we would like to contribute to the consultation:
+
+On risk assessment (see 5.2.2) as well as classification of the risk of AI systems (Art.7):
+The limits of operationalizability of risks must also be considered; in particular regarding latent non-reflective harm to individuals and society.
+In addition to potential harm and dependence on the AI system, freedom of action during use (e.g. opt-out/configuration options and decision options for users) and for use (e.g., market structure/plurality of service) are also relevant.
+
+Other suggested indicia of the level of risk:
+- Extent of potential (de-)qualification/expropriation of relevant knowledge and skills: The ease of use must be weighed against the impact on individual and societal maturity, agency, and diversity (of opinions, scope of thinking, opportunities to develop interests etc.). One big risk of AI (especially machine learning) is that behavior, thinking, emotions are channeled (e.g. by reducing them to a manageable number of classifications) and based on probabilities and data with past reference. The result is social path dependencies - which have a latent effect on individuals and society. (discrimination is only one aspect of this phenomenon, as are filter bubbles, monopolization)
+- Extent of clarity/(in)transparency in the regulation of agency. If AI systems act unseen, it must be clear that they are currently (in)active and with which task they are engaged. This is also important for attributing responsibilities. Especially for interactive AI, it must be clear whether AI is currently (co-)acting or not. The more unclear the question of activity is the more high risk the system is. This is also relevant when human supervision is required for AI systems with high risk. (Art. 14)
+
+Emotion-sensitive AI:
+- The risk of using emotion-sensitive AI needs to be considered (beyond law enforcement) in terms of latent effects on social self-conditioning of emotion expressions. Even in voluntary/private use contexts (emo trainers, control in smart homes, etc.), these systems can potentially lead to psychological and social harm through the instrumental use of emotion expressions and the reductive classification to a small number of functionalities. Too little evidence is available in this regard.
+- If emotion-sensitive systems are systematically used as a substitute for human social relationships, considerable individual as well as social damage can occur. This concerns not only the decrease of social relationships, the standard of living, and value of life but also the danger of indirect emotional manipulation - be it only in the direction of a (e.g. consumption-oriented) conformism.
+
+Quality of data:
+Not only statistical quality criteria apply, but an evaluation of the content is also needed (by experts).
+
+Trustworthiness:
+Trustworthy AI systems need to be free of contradictions and shall not confront users with contradictions oder externalize their solution.
+
+Accompanying measures:
+Due to the latency of socially particularly relevant risks, the limited operationalizability of a holistic understanding of risk, and the fact that effects of technical systems are often determined by their implementation and use, flanking measures should be taken to the ex-ante risk assessment:
+- An observatory of latent social and societal effects on individuals and society to determine linkages and measures of harm
+- A impact assessment and employee participation (in companies)
+- Low-threshold, timely and effective complaint mechanisms (in companies, in society)
+
+Ultimately, a new category of damage (possibly psycho-social damage + societal damage) may be needed that is sensitive to medium- and long-term individual and societal damage and the reduction of the diversity of thought/language, interest and scope of action.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

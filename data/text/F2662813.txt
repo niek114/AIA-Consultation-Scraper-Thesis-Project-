@@ -1,0 +1,63 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: The Danish Chamber of Commerce
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2662813
+Submitted on
+22 July 2021
+Submitted by
+Anne Birk Mortensen
+User type
+Business association
+Organisation
+The Danish Chamber of Commerce
+Organisation size
+Large (250 or more)
+Country of origin
+Belgium
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+The proposal uses a vague definition of artificial intelligence (AI) and it should be clearer how AI is used in different respects. In addition, the proposal relies to a great extent on the use of delegat-ed acts, which increases the uncertainty for the companies affected by the legislation, e.g. the def-inition of what AI is can be changed.
+
+In addition, the scope of the proposal is also too vague - a large part of the problems that the regu-lation is meant to resolve are already (or should be) covered under other regulation. Thus, better enforcement of existing rules is a solution to address some of the risks that the Commission seeks to address in the proposal. This also means that there are some actions where the legality should not be determined by whether it is a machine or a human that is behind. 
+
+Some of the problems the proposal seeks to address are already clearly illegal. The EU Commis-sion has used a few examples in presenting the proposal. As an example of AI that exploits vulner-able groups (Title II, art. 5b), a puppet is used that, with an integrated voice assistant, encourages children to perform dangerous actions. Whether this voice assistant has an AI component or is simply an "unintelligent" recording, which at regular intervals plays a call to embark on actions with a high risk of harming themselves or others, we have a clear presumption , that this is al-ready covered by the Product Safety Directive and / or special rules for toys - otherwise it should be in any case. The examples emphasize the point that the Commission is either in the process of regulating areas already covered by other legislation, or that the Commission itself is a little un-clear on, what the purpose of the regulation is. Therefore, the Danish Chamber of Commerce be-lieves that it is beneficial to work on creating greater clarity about the regulation's intention and purpose. 
+
+Specific remarks
+Preamble (44)
+It is noted that data sets for training, validation and testing of AI systems are required to be "er-ror-free", which seems unlikely and impossible. The Danish Chamber of Commerce supports the intention of high data quality, which is free of bias and is representative, but with the very big data sets required to train algorithms, it will be enormously time-consuming and resource-intensive to ensure that there is not even a single error in the dataset.
+
+Article 53 
+The Danish Chamber of Commerce welcomes the potential within this article, and the idea of us-ing regulatory sandboxes to provide better conditions for innovation. However, we believe that this should be followed by co-financing from the EU budget and other incentives to ensure that enough sandboxes are set up across Member States.
+
+Article 55
+It’s positive, that the Commission is aiming to support the SME’s and their use and work within AI. Paragraph 2 should set a limit (e.g. measured by number of employees or turnover), so that the smallest companies and entrepreneurs are completely exempt from paying fees and the like in connection with the regulation's requirements for conformity assessments, etc.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

@@ -1,0 +1,68 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Finnish Center for Artificial Intelligence
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665315
+Submitted on
+04 August 2021
+Submitted by
+Petri Myllymäki
+User type
+Academic/research Institution
+Organisation
+Finnish Center for Artificial Intelligence
+Organisation size
+Large (250 or more)
+Country of origin
+Finland
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+The highly commendable goal of the proposed act is to provide a legal framework in Europe that encourages innovation and investments in artificial intelligence, while ensuring that the results are lawful, safe and trustworthy, respecting human rights. In order to reach this goal, the legal framework needs to be understandable, transparent and adequately measured. In its proposed form, the act does not properly fulfill these requirements.
+
+The main cause for unclarity lies in the scope of the regulation, which is not technology neutral, but is based on a definition of AI. By giving a definition of AI, the act implicitly defines a class of "non-AI systems", which together with the categorization of use cases, partitions the landscape into four classes:
+A. High-risk (or prohibited) use case and an AI system.
+B. High-risk (or prohibited) use case and a non-AI system.
+C. Low-risk use case and an AI system.
+D. Low-risk use case and a non-AI system.
+It is evident that C and D are not the target of regulation, while A clearly is, but what about B? What is the message here: are for example social scoring systems allowed as long as the underlying technology does not match some definition of AI? As the answer from the moral perspective clearly must be "no", the proposal tries to circumvent this dilemma by making the definition of AI extremely broad, and by listing numerous sub-fields of AI, but this does not remove the basic problem: as long as there is a technical definition of AI, it forms a serious loophole by creating a class of (non-AI) software systems that by definition are not regulated by the proposed act. If the idea is to make the definition so broad that it covers all digital systems, then the formulation is just confusing.
+
+A simple solution: define an AI system to mean any software system that is applied in a high-risk or prohibited use case defined in the act. This definition is easy to understand, unambiguous, technology neutral and completely future proof, covering all new technologies that may emerge in the future.
+
+The above formulation also removes a serious cause for unclarity, since the attempt to define AI by listing a number of subfields of AI does not constitute a useful definition that can be used for unequivocally determining whether a certain technology is within the scope of the field or not, as the subfields themselves are not defined. The possibility to add more subfields in the list later does not improve the situation, and any attempts to "define" AI in this way are doomed to fail, and just create loopholes and are a serious cause for confusion. Luckily, as explained above, this is not required at all.
+
+Other questions / causes for unclarity:
+- What is the rationale for selecting the high-risk use cases listed in the proposal, why these sectors? The underlying logic would be important to understand as the EC reserves itself the right to amend the list later.
+- What are the "essential public and private services" listed as a high-risk case? Are for example internet search engines essential public services? What about social media, for example for people whose income depends on their social media exposure?
+- The spirit of the proposed act seems to be to regulate products or services that will be brought to the market, not scientific research, but this should be stated more clearly: what exactly is the scope, and what about joint research (for example company-university research projects), at which point does this type of activities enter the scope?
+- What are the proposed "regulatory sandboxes" like: who defines them, who builds them, who maintains them, who can use them?
+
+FCAI supports the risk-based approach adopted in the proposal, but would make this view even more central and make the act completely technology neutral by removing the futile and unnecessary attempts to define the technologies that can be used. This would create a more adaptive, understandable and future proof basis for regulation.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

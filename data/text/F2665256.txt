@@ -1,0 +1,66 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Wikimedia (FKAGEU)
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665256
+Submitted on
+03 August 2021
+Submitted by
+Dimitar DIMITROV
+User type
+Non-governmental organisation (NGO)
+Organisation
+Wikimedia (FKAGEU)
+Organisation size
+Micro (1 to 9 employees)
+Country of origin
+Belgium
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+Wikimedia operates a number of online platforms that offer access to and re-use of the world's largest freely available datasets. These are used widely as training data for machine learning algorithms. 
+
+Wikimedia also develops and operates machine learning algorithms, mainly with the goal to make volunteer editors' work more efficient. One such example is ORES (https://www.mediawiki.org/wiki/ORES), a service that helps detect vandalism on Wikipedia and its sister projects. 
+
+Wikimedia worries about inherent biases in our data that are magnified by machine learning services. We constantly strive to recognise and remedy these. In 2019 we published a research on "Ethical and Human Centered AI" that we commissioned. It looks into the challenges and biases we were able to make out on our own projects. 
+
+From our experience  one of the key tasks we have as a society in applying ML/AI software is to detect and correct biases. Biases are real-life discrimination practices that are also present it the datasets and magnified by the operation of AI tools. 
+
+One feature our ORES has is a so-called "feature-injection". Basically anyone can test the system by providing a an input (a user's edit history and a new edit) and checking whether the "vandalism" flag would be triggered. This can happen with either the live data from the projects or synthetic data provided by the tester. From our experience this opportunity to test the system for concrete biases ("Are female sounding editor names more likely to be flagged as vandals?") helps in detecting discriminatory practices. 
+
+Article 52
+This is why we would like to consider if it would be possible to offer civil society groups or the general public a "testing option" for AI applications run by the public sector. This was a Roma rights organisation, for instance, could check whether software run by the local police force is unfairly biased against this group. One place such a "testing option" could be included is in Article 52 and address uses of AI software by the public sector.
+
+Article 3
+A further comment we have is on the definition of providers in Article 3. Many of the obligations of the Regulation are attached to providers, yet it seems very unclear who this is - the software developer, the reseller of the software, the service provider or the organisation using it? It seems very important to have a crystal clear definition that will easily be understand by a Finnish police authority, a Bulgarian software developer and an Irish trademark owner, alike. 
+
+Oversight authority
+To ensure human oversight it is important for users and civil society to have access to enough information about how AI systems work. But is is also important to know which authority is responsible and what redress mechanisms citizens have. The Regulation remain unclear about how and where users can get help or file complaints/demands. It might be a good idea to specify this. The European Data Protection Board is a EU level authority that already has considerable knowledge and experience in the area of large datasets, models and algorithms.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

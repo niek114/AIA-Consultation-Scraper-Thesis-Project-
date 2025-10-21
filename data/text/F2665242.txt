@@ -1,0 +1,57 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Centre for Democracy & Technology, Europe
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2665242
+Submitted on
+03 August 2021
+Submitted by
+David Nosak
+User type
+Non-governmental organisation (NGO)
+Organisation
+Centre for Democracy & Technology, Europe
+Organisation size
+Small (10 to 49 employees)
+Country of origin
+Belgium
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+The Centre for Democracy & Technology, Europe (CDT) welcomes the EU AI Act and the high priority it aspires to give to protecting fundamental rights. All AI systems should be subject to a human rights impact assessment and subject to regulation proportionate to the risks identified in that assessment. A risk-based approach can be helpful in ensuring proportionate regulation, but in order to appropriately protect human rights, this needs to integrate a rights-based approach. The theory of risk should recognise that risk increases when the likelihood, or the seriousness, of infringement on rights increases. The proposal’s hierarchy of risk at times focuses on the technology and at times on the context. The category of ‘certain AI systems’ (low-risk, Art. 52) includes biometric categorisation and AI systems to prevent and investigate crimes. These AI applications are actually both high-risk, with historic and current examples of rights abuse. The prohibition on social scoring only applies to governments, but private entities are at the same risk of using such systems to infringe human rights whether they are performing an outsourced public service or using such a system in their own services.
+
+The proposal rightly classifies biometric surveillance by law enforcement in publicly accessible places as an ‘unacceptable risk’, but the derogations include some of the highest risks to human rights and will swallow the rule. For instance, permitting its use to combat terrorism is wrought with risks because of human rights loop-holes in European and national counter terrorism legislation. Any law enforcement use of biometric surveillance is inherently high-risk and should be prohibited or subject to robust regulation.
+
+The proposal has ad hoc references to content moderation. CDT has documented how automated content analysis can be inaccurate and perpetuate discrimination. But there is no specific reference to this danger. In terms of legal clarity, there is a risk of confusion between the due diligence provisions of the draft Digital Services Act and the AI Act.
+
+The draft proposal limits avenues for individual redress or access to remedy. Remedies are almost exclusively accorded to vendors of AI and professional users (including governments) and not individual users nor marginalised or at-risk groups. Because the proposed legal basis of the draft proposal is Article 114 TFEU, the governance and enforcement mechanisms are rooted in product safety and market surveillance logic. Given the goal to better protect fundamental rights, Art. 2 TEU should be added as an additional basis. This could allow for a mandate for equality bodies, national human rights institutions and ombudspersons to be integrated into the governance system. Their expertise on human rights impact assessments could better inform risk assessment. The draft should also provide end-users concrete and actionable rights to object to being subject to AI. To ensure the compatibility and enforcement of EU equality legislation with the draft act, an individual or civil society organisation should have an avenue to make claims of discrimination and the burden should shift so the entity using the AI system is required to disprove that discrimination.
+
+The draft AI Act also gives disproportionate power to private actors. It is unclear how the proposed standards could be enforceable, in particular with regard to individual or group complaints. The self-assessment and standardisation approach risks absolving public authorities from  policy-making  (and offloading it to privatised standards instead). The current European standard-setting process is inaccessible to most public interest actors and the harmonisation process threatens to weaken whatever standards are set. This is a further example of why it is important to formally and purposefully bring more human rights and public interest actors into the process of risk-assessment, enforcement and policy-making.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

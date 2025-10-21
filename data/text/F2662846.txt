@@ -1,0 +1,63 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Sanofi
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2662846
+Submitted on
+22 July 2021
+Submitted by
+Marie Helene Fandel
+User type
+Company/business
+Organisation
+Sanofi
+Organisation size
+Large (250 or more)
+Country of origin
+France
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+Sanofi supports the Commission's aim to ensure that Europeans  benefit from technologies developed and functioning according to EU values, fundamental rights and principles, and welcomes the idea that AI should be a force for good in society.
+
+We use AI to accelerate discovery and development across R&D programs and improve the efficiency of processes across the organization. We ambition to use AI across our products lifecycle and would like to bring the following points to the EC’s attention:
+
+1.	In the interest of a harmonized application of the AI Regulation, we recommend a centralized authorization process. If a federated approach is taken, a system of mutual recognition should be established to allow manufacturers to go to the authority of their choice or escalate to a central body to arbitrate a case, thereby introducing an instrument to align the notified bodies.
+
+2.	The proposed obligation to monitor and report incidents and breaches (article 17, 33 and 62) can duplicate existing surveillance and reporting mechanisms in the healthcare space (e.g. pharmacovigilance and device complaints). Where AI is part of therapeutics and medical devices (MD), these existing channels should be leveraged. More specifically, the CE marking system for high-risk applications in healthcare is already addressed by the MD and IVD Regulations. Both differentiate multiple risk classes depending on patient risk and degree of intervention. It would be beneficial to further differentiate the risk categories also for AI, i.e. qualify only the higher device risk classes as high-risk AI (Class III, possible Class II).
+
+3.	The AI definition proposed in Article 3 (1) is too broad and goes beyond currently used techniques of practical relevance. In combination with Annex I and III, the definition could be interpreted as to cover any evidence produced by pharmaceutical companies using statistical methods. 
+
+As many other companies, Sanofi uses statistical and other methods (i.e. listed in Annex I) to develop scientific evidence. When we disseminate such evidence, we influence the environment. The proposed Regulation does not differentiate situations where the environment interacts with the software directly or whether humans distribute the evidence produced. As such, it may imply as a requirement for high-risk AI to monitor the continued accuracy of our evidence against real world data and mitigate/update for any bias observed. This would lead to unmanageable efforts and complexity for a process and controlled experiment which has been perfectly accepted and controlled without applying any new AI technology to that evidence generation process (e.g. health economics and outcomes research, efficacy studies).
+
+We would recommend limiting the scope of the Regulation to the practically relevant Machine Learning approaches (including systems which adapt their output based on data they have learned) and adapt/expand this definition as and when new techniques become practically relevant. The Regulation provides for such an incrementally adaptive mechanism through the Delegated Acts. At a minimum, traditional evidence generation (as used in clinical studies and beyond) must not be classified as AI.
+
+4.	Article 10 (3) includes an obligation to use data which is free of error. We should acknowledge that no data is free of error (particularly if they reflect an assessment).  Training data are usually tagged with meta data which can originate from subject matter experts. Their interpretations cannot be completely error-free and can always be enriched with additional data or meta data. Although data sets can never be complete, free of error or fully representative, their amount and quality should be suitable to meet or exceed the minimal accuracy threshold that the AI system must deliver for the intended purpose. The Regulation should therefore allow for a relative or judgmental criterion of materiality when requiring correctness (e.g. free of “substantive” error )
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

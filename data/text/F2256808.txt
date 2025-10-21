@@ -1,0 +1,55 @@
+An official website of the European Union
+How do you know?
+
+This site uses cookies. Visit our cookies policy page or click the link in any footer for more information and to change your preferences.
+
+Accept all cookies
+Accept only essential cookies
+Log in
+EN
+Search
+Law
+Feedback from: Agence du Numérique (AdN)
+Have your say - Public Consultations and Feedback
+Published initiatives
+Artificial intelligence – ethical and legal requirements
+Feedback from:
+Feedback reference
+F2256808
+Submitted on
+05 May 2021
+Submitted by
+Antoine Hublet
+User type
+Company/business
+Organisation
+Agence du Numérique (AdN)
+Organisation size
+Small (10 to 49 employees)
+Country of origin
+Belgium
+Initiative
+Artificial intelligence – ethical and legal requirements
+
+Please find below our feedback on the AI impact assessment. 
+
+- More classical algorithms such as linear regression have been around for many, many years and have almost never caused any damage or frustration. Artificial intelligence is a modern term that scares people, but in reality it is only an applied technology (mathematical, statistical,...) on data. And it is therefore the data and its use that is at the heart of the problem. The most important problem is the data itself and the purpose for which it is used. Technology is a means to an end. 
+
+- Moreover AI is a vague and inconsistent term. The definition of artificial intelligence is a task that needs to be addressed as a matter of priority before to focus on risks. We prefer to talk about augmented intelligence rather than artificial intelligence.  And AI should be seen more as a technology of opportunities than of threat.  For example, it may be relevant to break down AI into sub-elements (data, software, prediction or classification,…), technological sub-domains or scope of use, and to apply a specific regulation to each of them with a priority or risk level. Thus, provide a more structured regulatory approach. 
+
+- The definition of high-risk AI is sometimes too restrictive and does not sufficiently take into account the sectoral context of companies. The approach seems to be premature. It is important to understand the issues on the ground related to AI before regulating and hindering the growth of companies for reasons that do not apply. In order to minimise the constraints of AI regulations and avoid holding back business development, it is essential to focus on high risk at the European level. For low-risk AI, an AI certification system is more relevant than a regulatory system. Companies would then have the choice to certify their model to create a trust mechanism and reassure the end users.
+
+Report an issue with this feedback
+All feedback
+
+The views and opinions expressed here are entirely those of the author(s) and do not reflect the official opinion of the European Commission. The Commission cannot guarantee the accuracy of the information contained in them. Neither the Commission, nor any person acting on the Commission’s behalf, may be held responsible for the content or the information posted here. Views and opinions that violate the Commission’s feedback rules will be removed from the site.
+
+Contact the European Commission
+Follow the European Commission on social media
+Resources for partners
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility
